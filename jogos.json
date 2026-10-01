@@ -1,0 +1,4731 @@
+{
+ "instrucoes_para_ia": "Usa APENAS o calendário de jogos fornecido (jogos.json) como fonte. Não inventes jogos, datas, horas nem resultados. Se um jogo, equipa ou liga não constar, responde que não consta no calendário. 'por realizar' é calendário; 'terminado' são resultados. Horas em UTC; 'hora_confirmada': false significa só a data. Ligas fora da API (ver 'atualizacao') podem estar desatualizadas.",
+ "atualizado_em": "2026-10-01T07:11:27Z",
+ "atualizacao": {
+  "ligas_da_api": [],
+  "ligas_estaticas": [
+   "Premier League",
+   "La Liga",
+   "Bundesliga",
+   "Serie A",
+   "Ligue 1",
+   "Liga dos Campeões",
+   "Eredivisie",
+   "Eliteserien (Noruega)",
+   "Jupiler Pro League (Bélgica)",
+   "Liga das Nações (Liga A)",
+   "Liga Europa",
+   "Liga Portugal Betclic",
+   "Liga Conferência",
+   "Taça de Portugal (3.ª elim., 17/18 out)"
+  ]
+ },
+ "ligas": [
+  "Premier League",
+  "La Liga",
+  "Bundesliga",
+  "Serie A",
+  "Ligue 1",
+  "Liga dos Campeões",
+  "Eredivisie",
+  "Eliteserien (Noruega)",
+  "Jupiler Pro League (Bélgica)",
+  "Liga das Nações (Liga A)",
+  "Liga Europa",
+  "Liga Portugal Betclic",
+  "Liga Conferência",
+  "Taça de Portugal (3.ª elim., 17/18 out)"
+ ],
+ "jogos": [
+  {
+   "liga": "Bundesliga",
+   "data_utc": "2026-09-13T15:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Elversberg",
+   "fora": "Bayern",
+   "golos_casa": 1,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Bundesliga",
+   "data_utc": "2026-09-18T18:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Bayern",
+   "fora": "Union Berlin",
+   "golos_casa": 7,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Bundesliga",
+   "data_utc": "2026-09-19T13:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Frankfurt",
+   "fora": "Freiburg",
+   "golos_casa": 2,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Bundesliga",
+   "data_utc": "2026-09-19T13:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Gladbach",
+   "fora": "Mainz",
+   "golos_casa": 3,
+   "golos_fora": 4,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Bundesliga",
+   "data_utc": "2026-09-19T13:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Hamburgo",
+   "fora": "Colónia",
+   "golos_casa": 2,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Bundesliga",
+   "data_utc": "2026-09-19T13:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Werder",
+   "fora": "Augsburg",
+   "golos_casa": 3,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Bundesliga",
+   "data_utc": "2026-09-19T16:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Estugarda",
+   "fora": "Dortmund",
+   "golos_casa": 0,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Bundesliga",
+   "data_utc": "2026-09-20T13:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Leverkusen",
+   "fora": "RB Leipzig",
+   "golos_casa": 2,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Bundesliga",
+   "data_utc": "2026-09-20T15:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Schalke",
+   "fora": "Elversberg",
+   "golos_casa": 0,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Bundesliga",
+   "data_utc": "2026-09-20T17:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Paderborn",
+   "fora": "Hoffenheim",
+   "golos_casa": 3,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Bundesliga",
+   "data_utc": "2026-10-09T18:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Dortmund",
+   "fora": "Werder",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Bundesliga",
+   "data_utc": "2026-10-10T13:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Hoffenheim",
+   "fora": "Hamburgo",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Bundesliga",
+   "data_utc": "2026-10-10T13:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Augsburg",
+   "fora": "Bayern",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Bundesliga",
+   "data_utc": "2026-10-10T13:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Mainz",
+   "fora": "Leverkusen",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Bundesliga",
+   "data_utc": "2026-10-10T13:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Union Berlin",
+   "fora": "Elversberg",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Bundesliga",
+   "data_utc": "2026-10-10T13:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Paderborn",
+   "fora": "Estugarda",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Bundesliga",
+   "data_utc": "2026-10-10T16:30:00Z",
+   "hora_confirmada": true,
+   "casa": "RB Leipzig",
+   "fora": "Frankfurt",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Bundesliga",
+   "data_utc": "2026-10-11T13:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Colónia",
+   "fora": "Gladbach",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Bundesliga",
+   "data_utc": "2026-10-11T15:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Freiburg",
+   "fora": "Schalke",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Bundesliga",
+   "data_utc": "2026-10-16T18:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Frankfurt",
+   "fora": "Colónia",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Eliteserien (Noruega)",
+   "data_utc": "2026-09-04T17:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Aalesund",
+   "fora": "Start",
+   "golos_casa": 2,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Eliteserien (Noruega)",
+   "data_utc": "2026-09-04T18:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Fredrikstad",
+   "fora": "Bodø/Glimt",
+   "golos_casa": 1,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Eliteserien (Noruega)",
+   "data_utc": "2026-09-04T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Sandefjord",
+   "fora": "Viking",
+   "golos_casa": 1,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Eliteserien (Noruega)",
+   "data_utc": "2026-09-05T17:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Rosenborg",
+   "fora": "HamKam",
+   "golos_casa": 4,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Eliteserien (Noruega)",
+   "data_utc": "2026-09-05T18:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Brann",
+   "fora": "Lillestrøm",
+   "golos_casa": 1,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Eliteserien (Noruega)",
+   "data_utc": "2026-09-06T15:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Molde",
+   "fora": "KFUM Oslo",
+   "golos_casa": 2,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Eliteserien (Noruega)",
+   "data_utc": "2026-09-06T16:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Sarpsborg 08",
+   "fora": "Vålerenga",
+   "golos_casa": 2,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Eliteserien (Noruega)",
+   "data_utc": "2026-09-06T17:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Kristiansund",
+   "fora": "Tromsø",
+   "golos_casa": 2,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Eliteserien (Noruega)",
+   "data_utc": "2026-09-13T17:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Viking",
+   "fora": "Kristiansund",
+   "golos_casa": 8,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Eliteserien (Noruega)",
+   "data_utc": "2026-09-18T17:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Sarpsborg 08",
+   "fora": "KFUM Oslo",
+   "golos_casa": 1,
+   "golos_fora": 3,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Eliteserien (Noruega)",
+   "data_utc": "2026-09-19T15:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Kristiansund",
+   "fora": "Rosenborg",
+   "golos_casa": 1,
+   "golos_fora": 3,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Eliteserien (Noruega)",
+   "data_utc": "2026-09-19T17:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Molde",
+   "fora": "Aalesund",
+   "golos_casa": 1,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Eliteserien (Noruega)",
+   "data_utc": "2026-09-20T14:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Sandefjord",
+   "fora": "Start",
+   "golos_casa": 3,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Eliteserien (Noruega)",
+   "data_utc": "2026-09-20T15:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Viking",
+   "fora": "Lillestrøm",
+   "golos_casa": 3,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Eliteserien (Noruega)",
+   "data_utc": "2026-09-20T17:15:00Z",
+   "hora_confirmada": true,
+   "casa": "Brann",
+   "fora": "Bodø/Glimt",
+   "golos_casa": 2,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-09-13T14:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Zwolle",
+   "fora": "Feyenoord",
+   "golos_casa": 0,
+   "golos_fora": 7,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-09-18T18:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Groningen",
+   "fora": "Zwolle",
+   "golos_casa": 3,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-09-19T16:00:00Z",
+   "hora_confirmada": true,
+   "casa": "ADO Den Haag",
+   "fora": "Cambuur",
+   "golos_casa": 1,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-09-19T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Sparta Rotterdam",
+   "fora": "Heerenveen",
+   "golos_casa": 0,
+   "golos_fora": 4,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-09-19T18:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Ajax",
+   "fora": "Excelsior",
+   "golos_casa": 2,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-09-19T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Willem II",
+   "fora": "Fortuna Sittard",
+   "golos_casa": 0,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-09-20T10:15:00Z",
+   "hora_confirmada": true,
+   "casa": "Feyenoord",
+   "fora": "Utrecht",
+   "golos_casa": 5,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-09-20T12:30:00Z",
+   "hora_confirmada": true,
+   "casa": "AZ Alkmaar",
+   "fora": "Telstar",
+   "golos_casa": 1,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-09-20T14:00:00Z",
+   "hora_confirmada": true,
+   "casa": "NEC",
+   "fora": "Go Ahead Eagles",
+   "golos_casa": 1,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-09-20T14:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Twente",
+   "fora": "PSV",
+   "golos_casa": 3,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-10-10T14:30:00Z",
+   "hora_confirmada": true,
+   "casa": "PSV",
+   "fora": "Heerenveen",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-10-10T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Feyenoord",
+   "fora": "AZ Alkmaar",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-10-10T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Ajax",
+   "fora": "NEC",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-10-10T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Fortuna Sittard",
+   "fora": "Twente",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-10-11T10:15:00Z",
+   "hora_confirmada": true,
+   "casa": "Utrecht",
+   "fora": "Willem II",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-10-11T12:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Zwolle",
+   "fora": "Cambuur",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-10-11T12:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Telstar",
+   "fora": "ADO Den Haag",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-10-11T14:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Excelsior",
+   "fora": "Groningen",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-10-16T18:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Heerenveen",
+   "fora": "Excelsior",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-10-17T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "NEC",
+   "fora": "Fortuna Sittard",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-10-17T18:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Telstar",
+   "fora": "Feyenoord",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-10-17T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Sparta Rotterdam",
+   "fora": "Willem II",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-10-18T12:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Twente",
+   "fora": "Utrecht",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-10-18T12:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Cambuur",
+   "fora": "AZ Alkmaar",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-10-18T14:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Groningen",
+   "fora": "Ajax",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-10-23T18:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Go Ahead Eagles",
+   "fora": "Telstar",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-10-24T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "ADO Den Haag",
+   "fora": "Heerenveen",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-10-25T13:30:00Z",
+   "hora_confirmada": true,
+   "casa": "PSV",
+   "fora": "Feyenoord",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-10-25T15:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Sparta Rotterdam",
+   "fora": "Ajax",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-10-25T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "AZ Alkmaar",
+   "fora": "Twente",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-10-31T15:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Feyenoord",
+   "fora": "Fortuna Sittard",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Eredivisie",
+   "data_utc": "2026-10-31T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Ajax",
+   "fora": "AZ Alkmaar",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Jupiler Pro League (Bélgica)",
+   "data_utc": "2026-09-11T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Mechelen",
+   "fora": "Anderlecht",
+   "golos_casa": 0,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Jupiler Pro League (Bélgica)",
+   "data_utc": "2026-09-20T12:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Antwerp",
+   "fora": "Union SG",
+   "golos_casa": 0,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Jupiler Pro League (Bélgica)",
+   "data_utc": "2026-09-20T14:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Sint-Truidense",
+   "fora": "Westerlo",
+   "golos_casa": 0,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Jupiler Pro League (Bélgica)",
+   "data_utc": "2026-09-20T16:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Club Brugge",
+   "fora": "Genk",
+   "golos_casa": 3,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Jupiler Pro League (Bélgica)",
+   "data_utc": "2026-09-20T17:15:00Z",
+   "hora_confirmada": true,
+   "casa": "Kortrijk",
+   "fora": "Beveren",
+   "golos_casa": 1,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "La Liga",
+   "data_utc": "2026-09-18T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Espanyol",
+   "fora": "Elche",
+   "golos_casa": 1,
+   "golos_fora": 3,
+   "estado": "terminado"
+  },
+  {
+   "liga": "La Liga",
+   "data_utc": "2026-09-19T12:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Osasuna",
+   "fora": "Rayo Vallecano",
+   "golos_casa": 1,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "La Liga",
+   "data_utc": "2026-09-19T14:15:00Z",
+   "hora_confirmada": true,
+   "casa": "Athletic Bilbao",
+   "fora": "Alavés",
+   "golos_casa": 0,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "La Liga",
+   "data_utc": "2026-09-19T16:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Celta",
+   "fora": "Racing Santander",
+   "golos_casa": 5,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "La Liga",
+   "data_utc": "2026-09-19T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Sevilla",
+   "fora": "Barcelona",
+   "golos_casa": 1,
+   "golos_fora": 3,
+   "estado": "terminado"
+  },
+  {
+   "liga": "La Liga",
+   "data_utc": "2026-09-20T12:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Getafe",
+   "fora": "Málaga",
+   "golos_casa": 1,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "La Liga",
+   "data_utc": "2026-09-20T14:15:00Z",
+   "hora_confirmada": true,
+   "casa": "Atlético Madrid",
+   "fora": "Real Madrid",
+   "golos_casa": 2,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "La Liga",
+   "data_utc": "2026-09-20T16:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Deportivo",
+   "fora": "Betis",
+   "golos_casa": 1,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "La Liga",
+   "data_utc": "2026-09-20T16:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Villarreal",
+   "fora": "Levante",
+   "golos_casa": 3,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "La Liga",
+   "data_utc": "2026-09-20T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Valencia",
+   "fora": "Real Sociedad",
+   "golos_casa": 2,
+   "golos_fora": 3,
+   "estado": "terminado"
+  },
+  {
+   "liga": "La Liga",
+   "data_utc": "2026-10-09T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Málaga",
+   "fora": "Espanyol",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "La Liga",
+   "data_utc": "2026-10-10T12:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Rayo Vallecano",
+   "fora": "Athletic Bilbao",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "La Liga",
+   "data_utc": "2026-10-10T14:15:00Z",
+   "hora_confirmada": true,
+   "casa": "Alavés",
+   "fora": "Atlético Madrid",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "La Liga",
+   "data_utc": "2026-10-10T16:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Barcelona",
+   "fora": "Getafe",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "La Liga",
+   "data_utc": "2026-10-10T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Real Madrid",
+   "fora": "Villarreal",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "La Liga",
+   "data_utc": "2026-10-11T12:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Elche",
+   "fora": "Celta",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "La Liga",
+   "data_utc": "2026-10-11T14:15:00Z",
+   "hora_confirmada": true,
+   "casa": "Real Sociedad",
+   "fora": "Deportivo",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "La Liga",
+   "data_utc": "2026-10-11T16:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Betis",
+   "fora": "Osasuna",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "La Liga",
+   "data_utc": "2026-10-11T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Racing Santander",
+   "fora": "Valencia",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "La Liga",
+   "data_utc": "2026-10-12T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Levante",
+   "fora": "Sevilla",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Conferência",
+   "data_utc": "2026-10-15T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Lugano",
+   "fora": "Crvena Zvezda",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Conferência",
+   "data_utc": "2026-10-15T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Hajduk Split",
+   "fora": "Ajax",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Conferência",
+   "data_utc": "2026-10-15T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Gent",
+   "fora": "Aarhus",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Conferência",
+   "data_utc": "2026-10-15T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Egnatia",
+   "fora": "Midtjylland",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Conferência",
+   "data_utc": "2026-10-15T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "KuPS",
+   "fora": "Trabzonspor",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Conferência",
+   "data_utc": "2026-10-15T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Mjällby",
+   "fora": "Inter Escaldes",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Conferência",
+   "data_utc": "2026-10-15T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Panathinaikos",
+   "fora": "Borac Banja Luka",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Conferência",
+   "data_utc": "2026-10-15T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "CSKA Sofia",
+   "fora": "Monaco",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Conferência",
+   "data_utc": "2026-10-15T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Riga",
+   "fora": "Kairat",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Conferência",
+   "data_utc": "2026-10-15T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Universitatea Craiova",
+   "fora": "Getafe",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Conferência",
+   "data_utc": "2026-10-15T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Atalanta",
+   "fora": "Pafos",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Conferência",
+   "data_utc": "2026-10-15T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Brighton",
+   "fora": "Kauno Žalgiris",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Conferência",
+   "data_utc": "2026-10-15T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Copenhagen",
+   "fora": "Braga",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Conferência",
+   "data_utc": "2026-10-15T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Twente",
+   "fora": "Thun",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Conferência",
+   "data_utc": "2026-10-15T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Hearts",
+   "fora": "Nordsjælland",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Conferência",
+   "data_utc": "2026-10-15T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Sint-Truidense",
+   "fora": "Iberia 1999",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Conferência",
+   "data_utc": "2026-10-15T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Freiburg",
+   "fora": "Jablonec",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Conferência",
+   "data_utc": "2026-10-15T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Brann",
+   "fora": "Lincoln Red Imps",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Conferência",
+   "data_utc": "2026-10-22",
+   "hora_confirmada": false,
+   "casa": "Kairat",
+   "fora": "Panathinaikos",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Conferência",
+   "data_utc": "2026-10-22",
+   "hora_confirmada": false,
+   "casa": "Iberia 1999",
+   "fora": "Mjällby",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Conferência",
+   "data_utc": "2026-10-22",
+   "hora_confirmada": false,
+   "casa": "Nordsjælland",
+   "fora": "CSKA Sofia",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Conferência",
+   "data_utc": "2026-10-22",
+   "hora_confirmada": false,
+   "casa": "Crvena Zvezda",
+   "fora": "Copenhagen",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Conferência",
+   "data_utc": "2026-10-22",
+   "hora_confirmada": false,
+   "casa": "Jablonec",
+   "fora": "Brighton",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Conferência",
+   "data_utc": "2026-10-22",
+   "hora_confirmada": false,
+   "casa": "Kauno Žalgiris",
+   "fora": "Brann",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Europa",
+   "data_utc": "2026-09-16T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Ararat-Armenia",
+   "fora": "Sparta Praga",
+   "golos_casa": 1,
+   "golos_fora": 4,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga Europa",
+   "data_utc": "2026-09-16T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Omonia",
+   "fora": "Celta",
+   "golos_casa": 1,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga Europa",
+   "data_utc": "2026-09-16T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Milan",
+   "fora": "Benfica",
+   "golos_casa": 0,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga Europa",
+   "data_utc": "2026-09-16T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Leverkusen",
+   "fora": "Celje",
+   "golos_casa": 2,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga Europa",
+   "data_utc": "2026-09-16T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Hapoel Beer-Sheva",
+   "fora": "Dinamo Zagreb",
+   "golos_casa": 0,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga Europa",
+   "data_utc": "2026-09-16T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Olympiacos",
+   "fora": "Jagiellonia",
+   "golos_casa": 2,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga Europa",
+   "data_utc": "2026-09-16T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Anderlecht",
+   "fora": "Lyon",
+   "golos_casa": 1,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga Europa",
+   "data_utc": "2026-09-16T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Sturm Graz",
+   "fora": "Rennes",
+   "golos_casa": 0,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga Europa",
+   "data_utc": "2026-09-16T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Sunderland",
+   "fora": "AZ Alkmaar",
+   "golos_casa": 1,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga Europa",
+   "data_utc": "2026-09-17T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "OFI Creta",
+   "fora": "Hoffenheim",
+   "golos_casa": 2,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga Europa",
+   "data_utc": "2026-09-17T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Levski Sófia",
+   "fora": "Salzburg",
+   "golos_casa": 0,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga Europa",
+   "data_utc": "2026-09-17T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Beşiktaş",
+   "fora": "Marselha",
+   "golos_casa": 4,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga Europa",
+   "data_utc": "2026-09-17T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Celtic",
+   "fora": "Ferencváros",
+   "golos_casa": 1,
+   "golos_fora": 3,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga Europa",
+   "data_utc": "2026-09-17T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Crystal Palace",
+   "fora": "Lech Poznań",
+   "golos_casa": 4,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga Europa",
+   "data_utc": "2026-09-17T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Viktoria Plzeň",
+   "fora": "Union SG",
+   "golos_casa": 0,
+   "golos_fora": 3,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga Europa",
+   "data_utc": "2026-09-17T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Juventus",
+   "fora": "NEC",
+   "golos_casa": 5,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga Europa",
+   "data_utc": "2026-09-17T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Lillestrøm",
+   "fora": "Torreense",
+   "golos_casa": 1,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga Europa",
+   "data_utc": "2026-09-17T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Real Sociedad",
+   "fora": "Bournemouth",
+   "golos_casa": 1,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga Portugal Betclic",
+   "data_utc": "2026-09-12T19:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Casa Pia",
+   "fora": "Porto",
+   "golos_casa": 1,
+   "golos_fora": 4,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga Portugal Betclic",
+   "data_utc": "2026-09-19T15:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Alverca",
+   "fora": "Rio Ave",
+   "golos_casa": 1,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga Portugal Betclic",
+   "data_utc": "2026-09-19T18:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Gil Vicente",
+   "fora": "Marítimo",
+   "golos_casa": 1,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga Portugal Betclic",
+   "data_utc": "2026-09-19T19:15:00Z",
+   "hora_confirmada": true,
+   "casa": "Sporting CP",
+   "fora": "Arouca",
+   "golos_casa": 2,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga Portugal Betclic",
+   "data_utc": "2026-09-20T12:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Estrela da Amadora",
+   "fora": "Académico de Viseu",
+   "golos_casa": 0,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga Portugal Betclic",
+   "data_utc": "2026-09-20T14:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Estoril",
+   "fora": "Casa Pia",
+   "golos_casa": 1,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga Portugal Betclic",
+   "data_utc": "2026-09-20T16:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Santa Clara",
+   "fora": "Braga",
+   "golos_casa": 0,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga Portugal Betclic",
+   "data_utc": "2026-09-20T18:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Vitória SC",
+   "fora": "Moreirense",
+   "golos_casa": 1,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga Portugal Betclic",
+   "data_utc": "2026-09-20T19:15:00Z",
+   "hora_confirmada": true,
+   "casa": "Porto",
+   "fora": "Benfica",
+   "golos_casa": 3,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga Portugal Betclic",
+   "data_utc": "2026-10-09",
+   "hora_confirmada": false,
+   "casa": "Moreirense",
+   "fora": "Gil Vicente",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Portugal Betclic",
+   "data_utc": "2026-10-09T19:15:00Z",
+   "hora_confirmada": true,
+   "casa": "Braga",
+   "fora": "Sporting CP",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Portugal Betclic",
+   "data_utc": "2026-10-10",
+   "hora_confirmada": false,
+   "casa": "Casa Pia",
+   "fora": "Santa Clara",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Portugal Betclic",
+   "data_utc": "2026-10-10",
+   "hora_confirmada": false,
+   "casa": "Marítimo",
+   "fora": "Porto",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Portugal Betclic",
+   "data_utc": "2026-10-10",
+   "hora_confirmada": false,
+   "casa": "Académico de Viseu",
+   "fora": "Estoril",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Portugal Betclic",
+   "data_utc": "2026-10-11",
+   "hora_confirmada": false,
+   "casa": "Rio Ave",
+   "fora": "Nacional",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Portugal Betclic",
+   "data_utc": "2026-10-11",
+   "hora_confirmada": false,
+   "casa": "Benfica",
+   "fora": "Vitória SC",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Portugal Betclic",
+   "data_utc": "2026-10-11",
+   "hora_confirmada": false,
+   "casa": "Arouca",
+   "fora": "Estrela da Amadora",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Portugal Betclic",
+   "data_utc": "2026-10-12",
+   "hora_confirmada": false,
+   "casa": "Famalicão",
+   "fora": "Alverca",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Portugal Betclic",
+   "data_utc": "2026-10-25T15:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Estoril",
+   "fora": "Moreirense",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Portugal Betclic",
+   "data_utc": "2026-10-25T18:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Nacional",
+   "fora": "Braga",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Portugal Betclic",
+   "data_utc": "2026-10-25T20:15:00Z",
+   "hora_confirmada": true,
+   "casa": "Casa Pia",
+   "fora": "Sporting CP",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Portugal Betclic",
+   "data_utc": "2026-10-31T15:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Moreirense",
+   "fora": "Estrela da Amadora",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga Portugal Betclic",
+   "data_utc": "2026-10-31T20:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Porto",
+   "fora": "Estoril",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-09-24T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Países Baixos",
+   "fora": "Alemanha",
+   "golos_casa": 1,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-09-24T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Noruega",
+   "fora": "Dinamarca",
+   "golos_casa": 3,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-09-24T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Portugal",
+   "fora": "País de Gales",
+   "golos_casa": 1,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-09-24T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Sérvia",
+   "fora": "Grécia",
+   "golos_casa": 1,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-09-25T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Itália",
+   "fora": "Bélgica",
+   "golos_casa": 0,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-09-25T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Turquia",
+   "fora": "França",
+   "golos_casa": 0,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-09-26T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Chéquia",
+   "fora": "Croácia",
+   "golos_casa": 1,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-09-26T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Inglaterra",
+   "fora": "Espanha",
+   "golos_casa": 2,
+   "golos_fora": 3,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-09-27T16:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Dinamarca",
+   "fora": "País de Gales",
+   "golos_casa": 2,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-09-27T16:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Sérvia",
+   "fora": "Países Baixos",
+   "golos_casa": 1,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-09-27T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Alemanha",
+   "fora": "Grécia",
+   "golos_casa": 0,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-09-27T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Noruega",
+   "fora": "Portugal",
+   "golos_casa": 1,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-09-28T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Bélgica",
+   "fora": "França",
+   "golos_casa": 0,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-09-28T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Turquia",
+   "fora": "Itália",
+   "golos_casa": 1,
+   "golos_fora": 4,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-09-29T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Chéquia",
+   "fora": "Inglaterra",
+   "golos_casa": 0,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-09-29T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Espanha",
+   "fora": "Croácia",
+   "golos_casa": 4,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-10-01",
+   "hora_confirmada": false,
+   "casa": "Grécia",
+   "fora": "Países Baixos",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-10-01",
+   "hora_confirmada": false,
+   "casa": "Alemanha",
+   "fora": "Sérvia",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-10-01",
+   "hora_confirmada": false,
+   "casa": "Dinamarca",
+   "fora": "Portugal",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-10-01",
+   "hora_confirmada": false,
+   "casa": "País de Gales",
+   "fora": "Noruega",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-10-02T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Bélgica",
+   "fora": "Turquia",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-10-02T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "França",
+   "fora": "Itália",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-10-03",
+   "hora_confirmada": false,
+   "casa": "Espanha",
+   "fora": "Chéquia",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-10-03",
+   "hora_confirmada": false,
+   "casa": "Croácia",
+   "fora": "Inglaterra",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-10-04",
+   "hora_confirmada": false,
+   "casa": "Grécia",
+   "fora": "Alemanha",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-10-04",
+   "hora_confirmada": false,
+   "casa": "Países Baixos",
+   "fora": "Sérvia",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-10-04",
+   "hora_confirmada": false,
+   "casa": "Portugal",
+   "fora": "Noruega",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-10-04",
+   "hora_confirmada": false,
+   "casa": "País de Gales",
+   "fora": "Dinamarca",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-10-05T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "França",
+   "fora": "Bélgica",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-10-05T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Itália",
+   "fora": "Turquia",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-10-06",
+   "hora_confirmada": false,
+   "casa": "Croácia",
+   "fora": "Espanha",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-10-06",
+   "hora_confirmada": false,
+   "casa": "Inglaterra",
+   "fora": "Chéquia",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-11-12",
+   "hora_confirmada": false,
+   "casa": "Turquia",
+   "fora": "Bélgica",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-11-12",
+   "hora_confirmada": false,
+   "casa": "Chéquia",
+   "fora": "Espanha",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-11-12",
+   "hora_confirmada": false,
+   "casa": "Inglaterra",
+   "fora": "Croácia",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-11-12",
+   "hora_confirmada": false,
+   "casa": "Itália",
+   "fora": "França",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-11-13",
+   "hora_confirmada": false,
+   "casa": "Países Baixos",
+   "fora": "Grécia",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-11-13",
+   "hora_confirmada": false,
+   "casa": "Sérvia",
+   "fora": "Alemanha",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-11-14",
+   "hora_confirmada": false,
+   "casa": "Noruega",
+   "fora": "País de Gales",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-11-14",
+   "hora_confirmada": false,
+   "casa": "Portugal",
+   "fora": "Dinamarca",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-11-15",
+   "hora_confirmada": false,
+   "casa": "Bélgica",
+   "fora": "Itália",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-11-15",
+   "hora_confirmada": false,
+   "casa": "Croácia",
+   "fora": "Chéquia",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-11-15",
+   "hora_confirmada": false,
+   "casa": "França",
+   "fora": "Turquia",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-11-15",
+   "hora_confirmada": false,
+   "casa": "Espanha",
+   "fora": "Inglaterra",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-11-16",
+   "hora_confirmada": false,
+   "casa": "Alemanha",
+   "fora": "Países Baixos",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-11-16",
+   "hora_confirmada": false,
+   "casa": "Grécia",
+   "fora": "Sérvia",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-11-17",
+   "hora_confirmada": false,
+   "casa": "Dinamarca",
+   "fora": "Noruega",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga das Nações (Liga A)",
+   "data_utc": "2026-11-17",
+   "hora_confirmada": false,
+   "casa": "País de Gales",
+   "fora": "Portugal",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-09-08T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "AEK Athens",
+   "fora": "LASK",
+   "golos_casa": 1,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-09-08T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Club Brugge",
+   "fora": "Aston Villa",
+   "golos_casa": 2,
+   "golos_fora": 3,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-09-08T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Dortmund",
+   "fora": "Villarreal",
+   "golos_casa": 3,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-09-08T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Porto",
+   "fora": "Man. City",
+   "golos_casa": 0,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-09-08T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Lille",
+   "fora": "Betis",
+   "golos_casa": 2,
+   "golos_fora": 3,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-09-08T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Real Madrid",
+   "fora": "Inter",
+   "golos_casa": 2,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-09-09T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Barcelona",
+   "fora": "Feyenoord",
+   "golos_casa": 5,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-09-09T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Estugarda",
+   "fora": "Viking",
+   "golos_casa": 3,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-09-09T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Liverpool",
+   "fora": "Atlético Madrid",
+   "golos_casa": 2,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-09-09T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "PSG",
+   "fora": "Slovan Bratislava",
+   "golos_casa": 6,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-09-09T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Sporting CP",
+   "fora": "Galatasaray",
+   "golos_casa": 3,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-09-09T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Napoli",
+   "fora": "Arsenal",
+   "golos_casa": 0,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-09-10T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Fenerbahçe",
+   "fora": "Roma",
+   "golos_casa": 1,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-09-10T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "PSV",
+   "fora": "Shakhtar",
+   "golos_casa": 1,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-09-10T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Como",
+   "fora": "RB Leipzig",
+   "golos_casa": 4,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-09-10T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Bayern",
+   "fora": "Bodø/Glimt",
+   "golos_casa": 5,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-09-10T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Man. United",
+   "fora": "Sabah",
+   "golos_casa": 4,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-09-10T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Slavia Praga",
+   "fora": "Lens",
+   "golos_casa": 2,
+   "golos_fora": 3,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-13T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Lens",
+   "fora": "Sporting CP",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-13T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Sabah",
+   "fora": "Slavia Praga",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-13T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Arsenal",
+   "fora": "Lille",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-13T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Atlético Madrid",
+   "fora": "Man. United",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-13T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Inter",
+   "fora": "Club Brugge",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-13T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Galatasaray",
+   "fora": "Barcelona",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-13T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "RB Leipzig",
+   "fora": "PSV",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-13T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Viking",
+   "fora": "Bayern",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-13T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Villarreal",
+   "fora": "Napoli",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-14T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Feyenoord",
+   "fora": "Como",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-14T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "LASK",
+   "fora": "Liverpool",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-14T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Roma",
+   "fora": "Real Madrid",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-14T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Aston Villa",
+   "fora": "Fenerbahçe",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-14T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Shakhtar",
+   "fora": "AEK Athens",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-14T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Bodø/Glimt",
+   "fora": "Dortmund",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-14T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Man. City",
+   "fora": "PSG",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-14T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Betis",
+   "fora": "Porto",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-14T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Slovan Bratislava",
+   "fora": "Estugarda",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-20T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Fenerbahçe",
+   "fora": "Slavia Praga",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-20T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Sabah",
+   "fora": "Dortmund",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-20T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Roma",
+   "fora": "Slovan Bratislava",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-20T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Porto",
+   "fora": "PSV",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-20T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Liverpool",
+   "fora": "Villarreal",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-20T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Man. City",
+   "fora": "AEK Athens",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-20T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "PSG",
+   "fora": "Barcelona",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-20T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Napoli",
+   "fora": "Bodø/Glimt",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-20T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Estugarda",
+   "fora": "Atlético Madrid",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-21T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Como",
+   "fora": "Man. United",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-21T16:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Lille",
+   "fora": "Galatasaray",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-21T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Aston Villa",
+   "fora": "Viking",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-21T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Club Brugge",
+   "fora": "Lens",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-21T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Bayern",
+   "fora": "Arsenal",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-21T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Inter",
+   "fora": "Shakhtar",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-21T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Real Madrid",
+   "fora": "RB Leipzig",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-21T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Betis",
+   "fora": "Feyenoord",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-10-21T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Sporting CP",
+   "fora": "LASK",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-03T17:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Shakhtar",
+   "fora": "Sporting CP",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-03T17:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Galatasaray",
+   "fora": "Estugarda",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-03T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Atlético Madrid",
+   "fora": "Bayern",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-03T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Barcelona",
+   "fora": "Aston Villa",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-03T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Feyenoord",
+   "fora": "Inter",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-03T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Bodø/Glimt",
+   "fora": "Lille",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-03T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "LASK",
+   "fora": "Slovan Bratislava",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-03T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Man. United",
+   "fora": "Roma",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-03T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Villarreal",
+   "fora": "PSG",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-04T17:45:00Z",
+   "hora_confirmada": true,
+   "casa": "AEK Athens",
+   "fora": "Real Madrid",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-04T17:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Fenerbahçe",
+   "fora": "Liverpool",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-04T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Dortmund",
+   "fora": "Betis",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-04T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Porto",
+   "fora": "Napoli",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-04T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "PSV",
+   "fora": "Club Brugge",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-04T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "RB Leipzig",
+   "fora": "Man. City",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-04T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Lens",
+   "fora": "Como",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-04T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Slavia Praga",
+   "fora": "Arsenal",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-04T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Viking",
+   "fora": "Sabah",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-24T17:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Bodø/Glimt",
+   "fora": "LASK",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-24T17:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Galatasaray",
+   "fora": "Aston Villa",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-24T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Arsenal",
+   "fora": "Dortmund",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-24T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Como",
+   "fora": "AEK Athens",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-24T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Feyenoord",
+   "fora": "Porto",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-24T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Man. City",
+   "fora": "Napoli",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-24T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "RB Leipzig",
+   "fora": "Lens",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-24T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Real Madrid",
+   "fora": "PSV",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-24T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Slovan Bratislava",
+   "fora": "Betis",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-25T17:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Sabah",
+   "fora": "Barcelona",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-25T17:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Slavia Praga",
+   "fora": "Villarreal",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-25T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Atlético Madrid",
+   "fora": "Viking",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-25T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Club Brugge",
+   "fora": "Liverpool",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-25T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Inter",
+   "fora": "Estugarda",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-25T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Shakhtar",
+   "fora": "Fenerbahçe",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-25T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Lille",
+   "fora": "Bayern",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-25T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "PSG",
+   "fora": "Roma",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-11-25T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Sporting CP",
+   "fora": "Man. United",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-12-08T17:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Viking",
+   "fora": "Feyenoord",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-12-08T17:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Villarreal",
+   "fora": "Sabah",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-12-08T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "AEK Athens",
+   "fora": "Galatasaray",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-12-08T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Roma",
+   "fora": "Sporting CP",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-12-08T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Aston Villa",
+   "fora": "PSG",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-12-08T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Barcelona",
+   "fora": "Man. City",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-12-08T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Bayern",
+   "fora": "Slavia Praga",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-12-08T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Man. United",
+   "fora": "RB Leipzig",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-12-08T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Napoli",
+   "fora": "Club Brugge",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-12-09T17:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Betis",
+   "fora": "Como",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-12-09T17:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Slovan Bratislava",
+   "fora": "Shakhtar",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-12-09T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Arsenal",
+   "fora": "Real Madrid",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-12-09T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Dortmund",
+   "fora": "Inter",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-12-09T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "LASK",
+   "fora": "Fenerbahçe",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-12-09T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Liverpool",
+   "fora": "Porto",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-12-09T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Lens",
+   "fora": "Bodø/Glimt",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-12-09T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "PSV",
+   "fora": "Atlético Madrid",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2026-12-09T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Estugarda",
+   "fora": "Lille",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-19T17:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Bodø/Glimt",
+   "fora": "Atlético Madrid",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-19T17:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Galatasaray",
+   "fora": "Feyenoord",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-19T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "AEK Athens",
+   "fora": "Roma",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-19T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Aston Villa",
+   "fora": "Dortmund",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-19T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Inter",
+   "fora": "Liverpool",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-19T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Porto",
+   "fora": "Slavia Praga",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-19T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Lille",
+   "fora": "Slovan Bratislava",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-19T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Real Madrid",
+   "fora": "LASK",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-19T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Estugarda",
+   "fora": "Club Brugge",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-20T17:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Fenerbahçe",
+   "fora": "Villarreal",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-20T17:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Sabah",
+   "fora": "Napoli",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-20T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Como",
+   "fora": "PSG",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-20T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Man. United",
+   "fora": "Bayern",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-20T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "RB Leipzig",
+   "fora": "Shakhtar",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-20T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Lens",
+   "fora": "Man. City",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-20T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Betis",
+   "fora": "Arsenal",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-20T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Sporting CP",
+   "fora": "Barcelona",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-20T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Viking",
+   "fora": "PSV",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-27T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Arsenal",
+   "fora": "Sabah",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-27T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Roma",
+   "fora": "Lille",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-27T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Atlético Madrid",
+   "fora": "Fenerbahçe",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-27T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Dortmund",
+   "fora": "AEK Athens",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-27T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Club Brugge",
+   "fora": "Bodø/Glimt",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-27T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Bayern",
+   "fora": "Betis",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-27T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Barcelona",
+   "fora": "Como",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-27T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Shakhtar",
+   "fora": "Real Madrid",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-27T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Feyenoord",
+   "fora": "RB Leipzig",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-27T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "LASK",
+   "fora": "Porto",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-27T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Liverpool",
+   "fora": "Lens",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-27T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Man. City",
+   "fora": "Sporting CP",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-27T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "PSG",
+   "fora": "Galatasaray",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-27T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "PSV",
+   "fora": "Estugarda",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-27T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Slavia Praga",
+   "fora": "Aston Villa",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-27T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Napoli",
+   "fora": "Viking",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-27T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Villarreal",
+   "fora": "Man. United",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Liga dos Campeões",
+   "data_utc": "2027-01-27T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Slovan Bratislava",
+   "fora": "Inter",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Ligue 1",
+   "data_utc": "2026-09-13T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Brest",
+   "fora": "PSG",
+   "golos_casa": 0,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Ligue 1",
+   "data_utc": "2026-09-18T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Monaco",
+   "fora": "Lens",
+   "golos_casa": 2,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Ligue 1",
+   "data_utc": "2026-09-19T15:15:00Z",
+   "hora_confirmada": true,
+   "casa": "Paris FC",
+   "fora": "Estrasburgo",
+   "golos_casa": 2,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Ligue 1",
+   "data_utc": "2026-09-19T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Angers",
+   "fora": "Troyes",
+   "golos_casa": 2,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Ligue 1",
+   "data_utc": "2026-09-19T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Le Mans",
+   "fora": "Lorient",
+   "golos_casa": 2,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Ligue 1",
+   "data_utc": "2026-09-19T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Lyon",
+   "fora": "Rennes",
+   "golos_casa": 4,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Ligue 1",
+   "data_utc": "2026-09-19T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Toulouse",
+   "fora": "Le Havre",
+   "golos_casa": 3,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Ligue 1",
+   "data_utc": "2026-09-20T13:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Auxerre",
+   "fora": "Brest",
+   "golos_casa": 2,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Ligue 1",
+   "data_utc": "2026-09-20T15:15:00Z",
+   "hora_confirmada": true,
+   "casa": "Nice",
+   "fora": "Lille",
+   "golos_casa": 2,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Ligue 1",
+   "data_utc": "2026-09-20T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Marselha",
+   "fora": "PSG",
+   "golos_casa": 1,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Ligue 1",
+   "data_utc": "2026-10-09T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Lens",
+   "fora": "Lyon",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Ligue 1",
+   "data_utc": "2026-10-10T15:15:00Z",
+   "hora_confirmada": true,
+   "casa": "Lille",
+   "fora": "Le Havre",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Ligue 1",
+   "data_utc": "2026-10-10T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Brest",
+   "fora": "Angers",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Ligue 1",
+   "data_utc": "2026-10-10T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Lorient",
+   "fora": "Paris FC",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Ligue 1",
+   "data_utc": "2026-10-10T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Monaco",
+   "fora": "Toulouse",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Ligue 1",
+   "data_utc": "2026-10-10T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "PSG",
+   "fora": "Le Mans",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Ligue 1",
+   "data_utc": "2026-10-11T13:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Nice",
+   "fora": "Estrasburgo",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Ligue 1",
+   "data_utc": "2026-10-11T15:15:00Z",
+   "hora_confirmada": true,
+   "casa": "Rennes",
+   "fora": "Auxerre",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Ligue 1",
+   "data_utc": "2026-10-11T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Troyes",
+   "fora": "Marselha",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Ligue 1",
+   "data_utc": "2026-10-16T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Le Mans",
+   "fora": "Toulouse",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-08-21T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Arsenal",
+   "fora": "Coventry",
+   "golos_casa": 3,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-08-23T15:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Newcastle",
+   "fora": "Liverpool",
+   "golos_casa": 2,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-08-24T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Fulham",
+   "fora": "Chelsea",
+   "golos_casa": 2,
+   "golos_fora": 3,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-08-29T11:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Liverpool",
+   "fora": "Nott. Forest",
+   "golos_casa": 2,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-08-30T13:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Chelsea",
+   "fora": "Brighton",
+   "golos_casa": 4,
+   "golos_fora": 3,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-08-31T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Aston Villa",
+   "fora": "Arsenal",
+   "golos_casa": 0,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-09-04T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Ipswich",
+   "fora": "Liverpool",
+   "golos_casa": 0,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-09-06T15:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Arsenal",
+   "fora": "Chelsea",
+   "golos_casa": 2,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-09-12T14:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Chelsea",
+   "fora": "Hull City",
+   "golos_casa": 2,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-09-12T14:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Liverpool",
+   "fora": "Fulham",
+   "golos_casa": 0,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-09-12T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Sunderland",
+   "fora": "Arsenal",
+   "golos_casa": 0,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-09-18T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Brentford",
+   "fora": "Chelsea",
+   "golos_casa": 3,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-09-19T11:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Tottenham",
+   "fora": "Aston Villa",
+   "golos_casa": 2,
+   "golos_fora": 3,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-09-19T14:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Brighton",
+   "fora": "Arsenal",
+   "golos_casa": 3,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-09-19T14:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Everton",
+   "fora": "Ipswich",
+   "golos_casa": 1,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-09-19T14:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Newcastle",
+   "fora": "Hull City",
+   "golos_casa": 2,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-09-19T16:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Nott. Forest",
+   "fora": "Coventry",
+   "golos_casa": 0,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-09-20T13:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Bournemouth",
+   "fora": "Liverpool",
+   "golos_casa": 0,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-09-20T13:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Leeds",
+   "fora": "Crystal Palace",
+   "golos_casa": 0,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-09-20T13:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Man. City",
+   "fora": "Sunderland",
+   "golos_casa": 5,
+   "golos_fora": 3,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-09-20T15:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Fulham",
+   "fora": "Man. United",
+   "golos_casa": 1,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-10-10T11:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Arsenal",
+   "fora": "Leeds",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-10-10T14:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Aston Villa",
+   "fora": "Brentford",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-10-10T14:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Chelsea",
+   "fora": "Bournemouth",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-10-10T14:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Ipswich",
+   "fora": "Fulham",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-10-10T14:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Sunderland",
+   "fora": "Brighton",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-10-10T16:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Man. United",
+   "fora": "Tottenham",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-10-11T13:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Crystal Palace",
+   "fora": "Nott. Forest",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-10-11T13:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Hull City",
+   "fora": "Everton",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-10-11T15:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Liverpool",
+   "fora": "Man. City",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-10-12T19:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Coventry",
+   "fora": "Newcastle",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-10-17T11:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Everton",
+   "fora": "Chelsea",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-10-17T14:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Brentford",
+   "fora": "Liverpool",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-10-18T15:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Nott. Forest",
+   "fora": "Arsenal",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-10-24T14:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Arsenal",
+   "fora": "Everton",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-10-24T16:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Chelsea",
+   "fora": "Tottenham",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-10-25T14:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Liverpool",
+   "fora": "Brighton",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-10-31T12:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Chelsea",
+   "fora": "Man. United",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-11-01T16:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Liverpool",
+   "fora": "Arsenal",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-11-07T15:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Arsenal",
+   "fora": "Hull City",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-11-08T14:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Sunderland",
+   "fora": "Chelsea",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-11-08T14:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Crystal Palace",
+   "fora": "Liverpool",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-11-21T15:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Chelsea",
+   "fora": "Leeds",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-11-21T17:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Newcastle",
+   "fora": "Arsenal",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-11-22T16:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Liverpool",
+   "fora": "Man. United",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-11-27T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Nott. Forest",
+   "fora": "Chelsea",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-11-29T12:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Everton",
+   "fora": "Liverpool",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-11-29T16:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Arsenal",
+   "fora": "Man. City",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-12-02T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Brentford",
+   "fora": "Arsenal",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-12-02T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Chelsea",
+   "fora": "Crystal Palace",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-12-02T20:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Liverpool",
+   "fora": "Sunderland",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-12-05T15:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Tottenham",
+   "fora": "Arsenal",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-12-05T15:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Chelsea",
+   "fora": "Liverpool",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-12-12T15:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Arsenal",
+   "fora": "Bournemouth",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-12-12T15:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Man. City",
+   "fora": "Chelsea",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Premier League",
+   "data_utc": "2026-12-12T15:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Liverpool",
+   "fora": "Leeds",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Serie A",
+   "data_utc": "2026-09-18T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Monza",
+   "fora": "Sassuolo",
+   "golos_casa": 2,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Serie A",
+   "data_utc": "2026-09-19T13:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Bologna",
+   "fora": "Torino",
+   "golos_casa": 1,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Serie A",
+   "data_utc": "2026-09-19T13:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Udinese",
+   "fora": "Cagliari",
+   "golos_casa": 0,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Serie A",
+   "data_utc": "2026-09-19T16:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Roma",
+   "fora": "Inter",
+   "golos_casa": 2,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Serie A",
+   "data_utc": "2026-09-19T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Venezia",
+   "fora": "Lazio",
+   "golos_casa": 0,
+   "golos_fora": 2,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Serie A",
+   "data_utc": "2026-09-20T10:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Fiorentina",
+   "fora": "Napoli",
+   "golos_casa": 1,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Serie A",
+   "data_utc": "2026-09-20T13:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Frosinone",
+   "fora": "Como",
+   "golos_casa": 2,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Serie A",
+   "data_utc": "2026-09-20T13:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Parma",
+   "fora": "Genoa",
+   "golos_casa": 2,
+   "golos_fora": 1,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Serie A",
+   "data_utc": "2026-09-20T16:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Juventus",
+   "fora": "Atalanta",
+   "golos_casa": 2,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Serie A",
+   "data_utc": "2026-09-20T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Milan",
+   "fora": "Lecce",
+   "golos_casa": 3,
+   "golos_fora": 0,
+   "estado": "terminado"
+  },
+  {
+   "liga": "Serie A",
+   "data_utc": "2026-10-10T13:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Genoa",
+   "fora": "Fiorentina",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Serie A",
+   "data_utc": "2026-10-10T16:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Inter",
+   "fora": "Parma",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Serie A",
+   "data_utc": "2026-10-10T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Napoli",
+   "fora": "Frosinone",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Serie A",
+   "data_utc": "2026-10-11T10:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Como",
+   "fora": "Roma",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Serie A",
+   "data_utc": "2026-10-11T13:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Lazio",
+   "fora": "Monza",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Serie A",
+   "data_utc": "2026-10-11T13:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Lecce",
+   "fora": "Bologna",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Serie A",
+   "data_utc": "2026-10-11T16:00:00Z",
+   "hora_confirmada": true,
+   "casa": "Sassuolo",
+   "fora": "Milan",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Serie A",
+   "data_utc": "2026-10-11T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Cagliari",
+   "fora": "Juventus",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Serie A",
+   "data_utc": "2026-10-12T16:30:00Z",
+   "hora_confirmada": true,
+   "casa": "Atalanta",
+   "fora": "Venezia",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Serie A",
+   "data_utc": "2026-10-12T18:45:00Z",
+   "hora_confirmada": true,
+   "casa": "Torino",
+   "fora": "Udinese",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Taça de Portugal (3.ª elim., 17/18 out)",
+   "data_utc": "2026-10-17",
+   "hora_confirmada": false,
+   "casa": "Salgueiros",
+   "fora": "Estoril",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Taça de Portugal (3.ª elim., 17/18 out)",
+   "data_utc": "2026-10-17",
+   "hora_confirmada": false,
+   "casa": "Alcochetense",
+   "fora": "Marítimo",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Taça de Portugal (3.ª elim., 17/18 out)",
+   "data_utc": "2026-10-17",
+   "hora_confirmada": false,
+   "casa": "Tondela",
+   "fora": "Alverca",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Taça de Portugal (3.ª elim., 17/18 out)",
+   "data_utc": "2026-10-17",
+   "hora_confirmada": false,
+   "casa": "Paredes",
+   "fora": "Famalicão",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Taça de Portugal (3.ª elim., 17/18 out)",
+   "data_utc": "2026-10-17",
+   "hora_confirmada": false,
+   "casa": "Belenenses",
+   "fora": "Arouca",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Taça de Portugal (3.ª elim., 17/18 out)",
+   "data_utc": "2026-10-17",
+   "hora_confirmada": false,
+   "casa": "Fazendense",
+   "fora": "Estrela da Amadora",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Taça de Portugal (3.ª elim., 17/18 out)",
+   "data_utc": "2026-10-17",
+   "hora_confirmada": false,
+   "casa": "Mafra",
+   "fora": "Santa Clara",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Taça de Portugal (3.ª elim., 17/18 out)",
+   "data_utc": "2026-10-17",
+   "hora_confirmada": false,
+   "casa": "União de Santarém",
+   "fora": "Gil Vicente",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Taça de Portugal (3.ª elim., 17/18 out)",
+   "data_utc": "2026-10-17",
+   "hora_confirmada": false,
+   "casa": "AVS",
+   "fora": "Moreirense",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Taça de Portugal (3.ª elim., 17/18 out)",
+   "data_utc": "2026-10-17",
+   "hora_confirmada": false,
+   "casa": "Lamelas",
+   "fora": "Vitória SC",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Taça de Portugal (3.ª elim., 17/18 out)",
+   "data_utc": "2026-10-17",
+   "hora_confirmada": false,
+   "casa": "Sanjoanense",
+   "fora": "Nacional",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Taça de Portugal (3.ª elim., 17/18 out)",
+   "data_utc": "2026-10-17",
+   "hora_confirmada": false,
+   "casa": "Alpendorada",
+   "fora": "Casa Pia",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Taça de Portugal (3.ª elim., 17/18 out)",
+   "data_utc": "2026-10-17",
+   "hora_confirmada": false,
+   "casa": "Louletano",
+   "fora": "Rio Ave",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Taça de Portugal (3.ª elim., 17/18 out)",
+   "data_utc": "2026-10-17",
+   "hora_confirmada": false,
+   "casa": "Fátima",
+   "fora": "Académico de Viseu",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Taça de Portugal (3.ª elim., 17/18 out)",
+   "data_utc": "2026-10-17",
+   "hora_confirmada": false,
+   "casa": "Farense",
+   "fora": "Marco 09",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Taça de Portugal (3.ª elim., 17/18 out)",
+   "data_utc": "2026-10-17",
+   "hora_confirmada": false,
+   "casa": "União de Leiria",
+   "fora": "Bragança",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Taça de Portugal (3.ª elim., 17/18 out)",
+   "data_utc": "2026-10-17",
+   "hora_confirmada": false,
+   "casa": "Atlético",
+   "fora": "Vizela",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Taça de Portugal (3.ª elim., 17/18 out)",
+   "data_utc": "2026-10-17",
+   "hora_confirmada": false,
+   "casa": "Chaves",
+   "fora": "Marialvas",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Taça de Portugal (3.ª elim., 17/18 out)",
+   "data_utc": "2026-10-17",
+   "hora_confirmada": false,
+   "casa": "Vianense",
+   "fora": "Leixões",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Taça de Portugal (3.ª elim., 17/18 out)",
+   "data_utc": "2026-10-17",
+   "hora_confirmada": false,
+   "casa": "Penafiel",
+   "fora": "Leça",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Taça de Portugal (3.ª elim., 17/18 out)",
+   "data_utc": "2026-10-17",
+   "hora_confirmada": false,
+   "casa": "Felgueiras",
+   "fora": "Fafe",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Taça de Portugal (3.ª elim., 17/18 out)",
+   "data_utc": "2026-10-17",
+   "hora_confirmada": false,
+   "casa": "Olhanense",
+   "fora": "Oliveira do Hospital",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Taça de Portugal (3.ª elim., 17/18 out)",
+   "data_utc": "2026-10-17",
+   "hora_confirmada": false,
+   "casa": "Lusitânia de Lourosa",
+   "fora": "Limianos",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  },
+  {
+   "liga": "Taça de Portugal (3.ª elim., 17/18 out)",
+   "data_utc": "2026-10-17",
+   "hora_confirmada": false,
+   "casa": "Vitória de Setúbal",
+   "fora": "União da Serra",
+   "golos_casa": null,
+   "golos_fora": null,
+   "estado": "por realizar"
+  }
+ ]
+}

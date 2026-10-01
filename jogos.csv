@@ -1,0 +1,470 @@
+liga,data_utc,hora_confirmada,casa,fora,golos_casa,golos_fora,estado
+Bundesliga,2026-09-13T15:30:00Z,True,Elversberg,Bayern,1,2,terminado
+Bundesliga,2026-09-18T18:30:00Z,True,Bayern,Union Berlin,7,0,terminado
+Bundesliga,2026-09-19T13:30:00Z,True,Frankfurt,Freiburg,2,2,terminado
+Bundesliga,2026-09-19T13:30:00Z,True,Gladbach,Mainz,3,4,terminado
+Bundesliga,2026-09-19T13:30:00Z,True,Hamburgo,Colónia,2,1,terminado
+Bundesliga,2026-09-19T13:30:00Z,True,Werder,Augsburg,3,2,terminado
+Bundesliga,2026-09-19T16:30:00Z,True,Estugarda,Dortmund,0,1,terminado
+Bundesliga,2026-09-20T13:30:00Z,True,Leverkusen,RB Leipzig,2,0,terminado
+Bundesliga,2026-09-20T15:30:00Z,True,Schalke,Elversberg,0,0,terminado
+Bundesliga,2026-09-20T17:30:00Z,True,Paderborn,Hoffenheim,3,1,terminado
+Bundesliga,2026-10-09T18:30:00Z,True,Dortmund,Werder,,,por realizar
+Bundesliga,2026-10-10T13:30:00Z,True,Hoffenheim,Hamburgo,,,por realizar
+Bundesliga,2026-10-10T13:30:00Z,True,Augsburg,Bayern,,,por realizar
+Bundesliga,2026-10-10T13:30:00Z,True,Mainz,Leverkusen,,,por realizar
+Bundesliga,2026-10-10T13:30:00Z,True,Union Berlin,Elversberg,,,por realizar
+Bundesliga,2026-10-10T13:30:00Z,True,Paderborn,Estugarda,,,por realizar
+Bundesliga,2026-10-10T16:30:00Z,True,RB Leipzig,Frankfurt,,,por realizar
+Bundesliga,2026-10-11T13:30:00Z,True,Colónia,Gladbach,,,por realizar
+Bundesliga,2026-10-11T15:30:00Z,True,Freiburg,Schalke,,,por realizar
+Bundesliga,2026-10-16T18:30:00Z,True,Frankfurt,Colónia,,,por realizar
+Eliteserien (Noruega),2026-09-04T17:00:00Z,True,Aalesund,Start,2,0,terminado
+Eliteserien (Noruega),2026-09-04T18:00:00Z,True,Fredrikstad,Bodø/Glimt,1,2,terminado
+Eliteserien (Noruega),2026-09-04T19:00:00Z,True,Sandefjord,Viking,1,1,terminado
+Eliteserien (Noruega),2026-09-05T17:00:00Z,True,Rosenborg,HamKam,4,0,terminado
+Eliteserien (Noruega),2026-09-05T18:00:00Z,True,Brann,Lillestrøm,1,2,terminado
+Eliteserien (Noruega),2026-09-06T15:00:00Z,True,Molde,KFUM Oslo,2,0,terminado
+Eliteserien (Noruega),2026-09-06T16:00:00Z,True,Sarpsborg 08,Vålerenga,2,2,terminado
+Eliteserien (Noruega),2026-09-06T17:00:00Z,True,Kristiansund,Tromsø,2,0,terminado
+Eliteserien (Noruega),2026-09-13T17:00:00Z,True,Viking,Kristiansund,8,1,terminado
+Eliteserien (Noruega),2026-09-18T17:00:00Z,True,Sarpsborg 08,KFUM Oslo,1,3,terminado
+Eliteserien (Noruega),2026-09-19T15:00:00Z,True,Kristiansund,Rosenborg,1,3,terminado
+Eliteserien (Noruega),2026-09-19T17:00:00Z,True,Molde,Aalesund,1,2,terminado
+Eliteserien (Noruega),2026-09-20T14:00:00Z,True,Sandefjord,Start,3,0,terminado
+Eliteserien (Noruega),2026-09-20T15:00:00Z,True,Viking,Lillestrøm,3,0,terminado
+Eliteserien (Noruega),2026-09-20T17:15:00Z,True,Brann,Bodø/Glimt,2,1,terminado
+Eredivisie,2026-09-13T14:45:00Z,True,Zwolle,Feyenoord,0,7,terminado
+Eredivisie,2026-09-18T18:00:00Z,True,Groningen,Zwolle,3,0,terminado
+Eredivisie,2026-09-19T16:00:00Z,True,ADO Den Haag,Cambuur,1,1,terminado
+Eredivisie,2026-09-19T16:45:00Z,True,Sparta Rotterdam,Heerenveen,0,4,terminado
+Eredivisie,2026-09-19T18:00:00Z,True,Ajax,Excelsior,2,2,terminado
+Eredivisie,2026-09-19T19:00:00Z,True,Willem II,Fortuna Sittard,0,1,terminado
+Eredivisie,2026-09-20T10:15:00Z,True,Feyenoord,Utrecht,5,0,terminado
+Eredivisie,2026-09-20T12:30:00Z,True,AZ Alkmaar,Telstar,1,0,terminado
+Eredivisie,2026-09-20T14:00:00Z,True,NEC,Go Ahead Eagles,1,1,terminado
+Eredivisie,2026-09-20T14:45:00Z,True,Twente,PSV,3,2,terminado
+Eredivisie,2026-10-10T14:30:00Z,True,PSV,Heerenveen,,,por realizar
+Eredivisie,2026-10-10T16:45:00Z,True,Feyenoord,AZ Alkmaar,,,por realizar
+Eredivisie,2026-10-10T19:00:00Z,True,Ajax,NEC,,,por realizar
+Eredivisie,2026-10-10T19:00:00Z,True,Fortuna Sittard,Twente,,,por realizar
+Eredivisie,2026-10-11T10:15:00Z,True,Utrecht,Willem II,,,por realizar
+Eredivisie,2026-10-11T12:30:00Z,True,Zwolle,Cambuur,,,por realizar
+Eredivisie,2026-10-11T12:30:00Z,True,Telstar,ADO Den Haag,,,por realizar
+Eredivisie,2026-10-11T14:45:00Z,True,Excelsior,Groningen,,,por realizar
+Eredivisie,2026-10-16T18:00:00Z,True,Heerenveen,Excelsior,,,por realizar
+Eredivisie,2026-10-17T16:45:00Z,True,NEC,Fortuna Sittard,,,por realizar
+Eredivisie,2026-10-17T18:00:00Z,True,Telstar,Feyenoord,,,por realizar
+Eredivisie,2026-10-17T19:00:00Z,True,Sparta Rotterdam,Willem II,,,por realizar
+Eredivisie,2026-10-18T12:30:00Z,True,Twente,Utrecht,,,por realizar
+Eredivisie,2026-10-18T12:30:00Z,True,Cambuur,AZ Alkmaar,,,por realizar
+Eredivisie,2026-10-18T14:45:00Z,True,Groningen,Ajax,,,por realizar
+Eredivisie,2026-10-23T18:00:00Z,True,Go Ahead Eagles,Telstar,,,por realizar
+Eredivisie,2026-10-24T19:00:00Z,True,ADO Den Haag,Heerenveen,,,por realizar
+Eredivisie,2026-10-25T13:30:00Z,True,PSV,Feyenoord,,,por realizar
+Eredivisie,2026-10-25T15:45:00Z,True,Sparta Rotterdam,Ajax,,,por realizar
+Eredivisie,2026-10-25T19:00:00Z,True,AZ Alkmaar,Twente,,,por realizar
+Eredivisie,2026-10-31T15:30:00Z,True,Feyenoord,Fortuna Sittard,,,por realizar
+Eredivisie,2026-10-31T20:00:00Z,True,Ajax,AZ Alkmaar,,,por realizar
+Jupiler Pro League (Bélgica),2026-09-11T18:45:00Z,True,Mechelen,Anderlecht,0,1,terminado
+Jupiler Pro League (Bélgica),2026-09-20T12:30:00Z,True,Antwerp,Union SG,0,2,terminado
+Jupiler Pro League (Bélgica),2026-09-20T14:00:00Z,True,Sint-Truidense,Westerlo,0,2,terminado
+Jupiler Pro League (Bélgica),2026-09-20T16:30:00Z,True,Club Brugge,Genk,3,0,terminado
+Jupiler Pro League (Bélgica),2026-09-20T17:15:00Z,True,Kortrijk,Beveren,1,0,terminado
+La Liga,2026-09-18T19:00:00Z,True,Espanyol,Elche,1,3,terminado
+La Liga,2026-09-19T12:00:00Z,True,Osasuna,Rayo Vallecano,1,1,terminado
+La Liga,2026-09-19T14:15:00Z,True,Athletic Bilbao,Alavés,0,0,terminado
+La Liga,2026-09-19T16:30:00Z,True,Celta,Racing Santander,5,0,terminado
+La Liga,2026-09-19T19:00:00Z,True,Sevilla,Barcelona,1,3,terminado
+La Liga,2026-09-20T12:00:00Z,True,Getafe,Málaga,1,0,terminado
+La Liga,2026-09-20T14:15:00Z,True,Atlético Madrid,Real Madrid,2,1,terminado
+La Liga,2026-09-20T16:30:00Z,True,Deportivo,Betis,1,1,terminado
+La Liga,2026-09-20T16:30:00Z,True,Villarreal,Levante,3,1,terminado
+La Liga,2026-09-20T19:00:00Z,True,Valencia,Real Sociedad,2,3,terminado
+La Liga,2026-10-09T19:00:00Z,True,Málaga,Espanyol,,,por realizar
+La Liga,2026-10-10T12:00:00Z,True,Rayo Vallecano,Athletic Bilbao,,,por realizar
+La Liga,2026-10-10T14:15:00Z,True,Alavés,Atlético Madrid,,,por realizar
+La Liga,2026-10-10T16:30:00Z,True,Barcelona,Getafe,,,por realizar
+La Liga,2026-10-10T19:00:00Z,True,Real Madrid,Villarreal,,,por realizar
+La Liga,2026-10-11T12:00:00Z,True,Elche,Celta,,,por realizar
+La Liga,2026-10-11T14:15:00Z,True,Real Sociedad,Deportivo,,,por realizar
+La Liga,2026-10-11T16:30:00Z,True,Betis,Osasuna,,,por realizar
+La Liga,2026-10-11T19:00:00Z,True,Racing Santander,Valencia,,,por realizar
+La Liga,2026-10-12T19:00:00Z,True,Levante,Sevilla,,,por realizar
+Liga Conferência,2026-10-15T16:45:00Z,True,Lugano,Crvena Zvezda,,,por realizar
+Liga Conferência,2026-10-15T16:45:00Z,True,Hajduk Split,Ajax,,,por realizar
+Liga Conferência,2026-10-15T16:45:00Z,True,Gent,Aarhus,,,por realizar
+Liga Conferência,2026-10-15T16:45:00Z,True,Egnatia,Midtjylland,,,por realizar
+Liga Conferência,2026-10-15T16:45:00Z,True,KuPS,Trabzonspor,,,por realizar
+Liga Conferência,2026-10-15T16:45:00Z,True,Mjällby,Inter Escaldes,,,por realizar
+Liga Conferência,2026-10-15T16:45:00Z,True,Panathinaikos,Borac Banja Luka,,,por realizar
+Liga Conferência,2026-10-15T16:45:00Z,True,CSKA Sofia,Monaco,,,por realizar
+Liga Conferência,2026-10-15T16:45:00Z,True,Riga,Kairat,,,por realizar
+Liga Conferência,2026-10-15T16:45:00Z,True,Universitatea Craiova,Getafe,,,por realizar
+Liga Conferência,2026-10-15T19:00:00Z,True,Atalanta,Pafos,,,por realizar
+Liga Conferência,2026-10-15T19:00:00Z,True,Brighton,Kauno Žalgiris,,,por realizar
+Liga Conferência,2026-10-15T19:00:00Z,True,Copenhagen,Braga,,,por realizar
+Liga Conferência,2026-10-15T19:00:00Z,True,Twente,Thun,,,por realizar
+Liga Conferência,2026-10-15T19:00:00Z,True,Hearts,Nordsjælland,,,por realizar
+Liga Conferência,2026-10-15T19:00:00Z,True,Sint-Truidense,Iberia 1999,,,por realizar
+Liga Conferência,2026-10-15T19:00:00Z,True,Freiburg,Jablonec,,,por realizar
+Liga Conferência,2026-10-15T19:00:00Z,True,Brann,Lincoln Red Imps,,,por realizar
+Liga Conferência,2026-10-22,False,Kairat,Panathinaikos,,,por realizar
+Liga Conferência,2026-10-22,False,Iberia 1999,Mjällby,,,por realizar
+Liga Conferência,2026-10-22,False,Nordsjælland,CSKA Sofia,,,por realizar
+Liga Conferência,2026-10-22,False,Crvena Zvezda,Copenhagen,,,por realizar
+Liga Conferência,2026-10-22,False,Jablonec,Brighton,,,por realizar
+Liga Conferência,2026-10-22,False,Kauno Žalgiris,Brann,,,por realizar
+Liga Europa,2026-09-16T16:45:00Z,True,Ararat-Armenia,Sparta Praga,1,4,terminado
+Liga Europa,2026-09-16T16:45:00Z,True,Omonia,Celta,1,0,terminado
+Liga Europa,2026-09-16T19:00:00Z,True,Milan,Benfica,0,2,terminado
+Liga Europa,2026-09-16T19:00:00Z,True,Leverkusen,Celje,2,0,terminado
+Liga Europa,2026-09-16T19:00:00Z,True,Hapoel Beer-Sheva,Dinamo Zagreb,0,0,terminado
+Liga Europa,2026-09-16T19:00:00Z,True,Olympiacos,Jagiellonia,2,1,terminado
+Liga Europa,2026-09-16T19:00:00Z,True,Anderlecht,Lyon,1,2,terminado
+Liga Europa,2026-09-16T19:00:00Z,True,Sturm Graz,Rennes,0,0,terminado
+Liga Europa,2026-09-16T19:00:00Z,True,Sunderland,AZ Alkmaar,1,0,terminado
+Liga Europa,2026-09-17T16:45:00Z,True,OFI Creta,Hoffenheim,2,0,terminado
+Liga Europa,2026-09-17T16:45:00Z,True,Levski Sófia,Salzburg,0,1,terminado
+Liga Europa,2026-09-17T19:00:00Z,True,Beşiktaş,Marselha,4,1,terminado
+Liga Europa,2026-09-17T19:00:00Z,True,Celtic,Ferencváros,1,3,terminado
+Liga Europa,2026-09-17T19:00:00Z,True,Crystal Palace,Lech Poznań,4,0,terminado
+Liga Europa,2026-09-17T19:00:00Z,True,Viktoria Plzeň,Union SG,0,3,terminado
+Liga Europa,2026-09-17T19:00:00Z,True,Juventus,NEC,5,0,terminado
+Liga Europa,2026-09-17T19:00:00Z,True,Lillestrøm,Torreense,1,2,terminado
+Liga Europa,2026-09-17T19:00:00Z,True,Real Sociedad,Bournemouth,1,2,terminado
+Liga Portugal Betclic,2026-09-12T19:30:00Z,True,Casa Pia,Porto,1,4,terminado
+Liga Portugal Betclic,2026-09-19T15:30:00Z,True,Alverca,Rio Ave,1,0,terminado
+Liga Portugal Betclic,2026-09-19T18:00:00Z,True,Gil Vicente,Marítimo,1,1,terminado
+Liga Portugal Betclic,2026-09-19T19:15:00Z,True,Sporting CP,Arouca,2,2,terminado
+Liga Portugal Betclic,2026-09-20T12:30:00Z,True,Estrela da Amadora,Académico de Viseu,0,2,terminado
+Liga Portugal Betclic,2026-09-20T14:30:00Z,True,Estoril,Casa Pia,1,2,terminado
+Liga Portugal Betclic,2026-09-20T16:00:00Z,True,Santa Clara,Braga,0,0,terminado
+Liga Portugal Betclic,2026-09-20T18:00:00Z,True,Vitória SC,Moreirense,1,1,terminado
+Liga Portugal Betclic,2026-09-20T19:15:00Z,True,Porto,Benfica,3,1,terminado
+Liga Portugal Betclic,2026-10-09,False,Moreirense,Gil Vicente,,,por realizar
+Liga Portugal Betclic,2026-10-09T19:15:00Z,True,Braga,Sporting CP,,,por realizar
+Liga Portugal Betclic,2026-10-10,False,Casa Pia,Santa Clara,,,por realizar
+Liga Portugal Betclic,2026-10-10,False,Marítimo,Porto,,,por realizar
+Liga Portugal Betclic,2026-10-10,False,Académico de Viseu,Estoril,,,por realizar
+Liga Portugal Betclic,2026-10-11,False,Rio Ave,Nacional,,,por realizar
+Liga Portugal Betclic,2026-10-11,False,Benfica,Vitória SC,,,por realizar
+Liga Portugal Betclic,2026-10-11,False,Arouca,Estrela da Amadora,,,por realizar
+Liga Portugal Betclic,2026-10-12,False,Famalicão,Alverca,,,por realizar
+Liga Portugal Betclic,2026-10-25T15:30:00Z,True,Estoril,Moreirense,,,por realizar
+Liga Portugal Betclic,2026-10-25T18:00:00Z,True,Nacional,Braga,,,por realizar
+Liga Portugal Betclic,2026-10-25T20:15:00Z,True,Casa Pia,Sporting CP,,,por realizar
+Liga Portugal Betclic,2026-10-31T15:30:00Z,True,Moreirense,Estrela da Amadora,,,por realizar
+Liga Portugal Betclic,2026-10-31T20:30:00Z,True,Porto,Estoril,,,por realizar
+Liga das Nações (Liga A),2026-09-24T18:45:00Z,True,Países Baixos,Alemanha,1,1,terminado
+Liga das Nações (Liga A),2026-09-24T18:45:00Z,True,Noruega,Dinamarca,3,2,terminado
+Liga das Nações (Liga A),2026-09-24T18:45:00Z,True,Portugal,País de Gales,1,0,terminado
+Liga das Nações (Liga A),2026-09-24T18:45:00Z,True,Sérvia,Grécia,1,2,terminado
+Liga das Nações (Liga A),2026-09-25T18:45:00Z,True,Itália,Bélgica,0,2,terminado
+Liga das Nações (Liga A),2026-09-25T18:45:00Z,True,Turquia,França,0,1,terminado
+Liga das Nações (Liga A),2026-09-26T18:45:00Z,True,Chéquia,Croácia,1,2,terminado
+Liga das Nações (Liga A),2026-09-26T18:45:00Z,True,Inglaterra,Espanha,2,3,terminado
+Liga das Nações (Liga A),2026-09-27T16:00:00Z,True,Dinamarca,País de Gales,2,0,terminado
+Liga das Nações (Liga A),2026-09-27T16:00:00Z,True,Sérvia,Países Baixos,1,2,terminado
+Liga das Nações (Liga A),2026-09-27T18:45:00Z,True,Alemanha,Grécia,0,1,terminado
+Liga das Nações (Liga A),2026-09-27T18:45:00Z,True,Noruega,Portugal,1,2,terminado
+Liga das Nações (Liga A),2026-09-28T18:45:00Z,True,Bélgica,França,0,1,terminado
+Liga das Nações (Liga A),2026-09-28T18:45:00Z,True,Turquia,Itália,1,4,terminado
+Liga das Nações (Liga A),2026-09-29T18:45:00Z,True,Chéquia,Inglaterra,0,2,terminado
+Liga das Nações (Liga A),2026-09-29T18:45:00Z,True,Espanha,Croácia,4,1,terminado
+Liga das Nações (Liga A),2026-10-01,False,Grécia,Países Baixos,,,por realizar
+Liga das Nações (Liga A),2026-10-01,False,Alemanha,Sérvia,,,por realizar
+Liga das Nações (Liga A),2026-10-01,False,Dinamarca,Portugal,,,por realizar
+Liga das Nações (Liga A),2026-10-01,False,País de Gales,Noruega,,,por realizar
+Liga das Nações (Liga A),2026-10-02T18:45:00Z,True,Bélgica,Turquia,,,por realizar
+Liga das Nações (Liga A),2026-10-02T18:45:00Z,True,França,Itália,,,por realizar
+Liga das Nações (Liga A),2026-10-03,False,Espanha,Chéquia,,,por realizar
+Liga das Nações (Liga A),2026-10-03,False,Croácia,Inglaterra,,,por realizar
+Liga das Nações (Liga A),2026-10-04,False,Grécia,Alemanha,,,por realizar
+Liga das Nações (Liga A),2026-10-04,False,Países Baixos,Sérvia,,,por realizar
+Liga das Nações (Liga A),2026-10-04,False,Portugal,Noruega,,,por realizar
+Liga das Nações (Liga A),2026-10-04,False,País de Gales,Dinamarca,,,por realizar
+Liga das Nações (Liga A),2026-10-05T18:45:00Z,True,França,Bélgica,,,por realizar
+Liga das Nações (Liga A),2026-10-05T18:45:00Z,True,Itália,Turquia,,,por realizar
+Liga das Nações (Liga A),2026-10-06,False,Croácia,Espanha,,,por realizar
+Liga das Nações (Liga A),2026-10-06,False,Inglaterra,Chéquia,,,por realizar
+Liga das Nações (Liga A),2026-11-12,False,Turquia,Bélgica,,,por realizar
+Liga das Nações (Liga A),2026-11-12,False,Chéquia,Espanha,,,por realizar
+Liga das Nações (Liga A),2026-11-12,False,Inglaterra,Croácia,,,por realizar
+Liga das Nações (Liga A),2026-11-12,False,Itália,França,,,por realizar
+Liga das Nações (Liga A),2026-11-13,False,Países Baixos,Grécia,,,por realizar
+Liga das Nações (Liga A),2026-11-13,False,Sérvia,Alemanha,,,por realizar
+Liga das Nações (Liga A),2026-11-14,False,Noruega,País de Gales,,,por realizar
+Liga das Nações (Liga A),2026-11-14,False,Portugal,Dinamarca,,,por realizar
+Liga das Nações (Liga A),2026-11-15,False,Bélgica,Itália,,,por realizar
+Liga das Nações (Liga A),2026-11-15,False,Croácia,Chéquia,,,por realizar
+Liga das Nações (Liga A),2026-11-15,False,França,Turquia,,,por realizar
+Liga das Nações (Liga A),2026-11-15,False,Espanha,Inglaterra,,,por realizar
+Liga das Nações (Liga A),2026-11-16,False,Alemanha,Países Baixos,,,por realizar
+Liga das Nações (Liga A),2026-11-16,False,Grécia,Sérvia,,,por realizar
+Liga das Nações (Liga A),2026-11-17,False,Dinamarca,Noruega,,,por realizar
+Liga das Nações (Liga A),2026-11-17,False,País de Gales,Portugal,,,por realizar
+Liga dos Campeões,2026-09-08T16:45:00Z,True,AEK Athens,LASK,1,0,terminado
+Liga dos Campeões,2026-09-08T16:45:00Z,True,Club Brugge,Aston Villa,2,3,terminado
+Liga dos Campeões,2026-09-08T19:00:00Z,True,Dortmund,Villarreal,3,2,terminado
+Liga dos Campeões,2026-09-08T19:00:00Z,True,Porto,Man. City,0,2,terminado
+Liga dos Campeões,2026-09-08T19:00:00Z,True,Lille,Betis,2,3,terminado
+Liga dos Campeões,2026-09-08T19:00:00Z,True,Real Madrid,Inter,2,1,terminado
+Liga dos Campeões,2026-09-09T16:45:00Z,True,Barcelona,Feyenoord,5,1,terminado
+Liga dos Campeões,2026-09-09T16:45:00Z,True,Estugarda,Viking,3,1,terminado
+Liga dos Campeões,2026-09-09T19:00:00Z,True,Liverpool,Atlético Madrid,2,1,terminado
+Liga dos Campeões,2026-09-09T19:00:00Z,True,PSG,Slovan Bratislava,6,1,terminado
+Liga dos Campeões,2026-09-09T19:00:00Z,True,Sporting CP,Galatasaray,3,1,terminado
+Liga dos Campeões,2026-09-09T19:00:00Z,True,Napoli,Arsenal,0,1,terminado
+Liga dos Campeões,2026-09-10T16:45:00Z,True,Fenerbahçe,Roma,1,1,terminado
+Liga dos Campeões,2026-09-10T16:45:00Z,True,PSV,Shakhtar,1,1,terminado
+Liga dos Campeões,2026-09-10T19:00:00Z,True,Como,RB Leipzig,4,1,terminado
+Liga dos Campeões,2026-09-10T19:00:00Z,True,Bayern,Bodø/Glimt,5,0,terminado
+Liga dos Campeões,2026-09-10T19:00:00Z,True,Man. United,Sabah,4,0,terminado
+Liga dos Campeões,2026-09-10T19:00:00Z,True,Slavia Praga,Lens,2,3,terminado
+Liga dos Campeões,2026-10-13T16:45:00Z,True,Lens,Sporting CP,,,por realizar
+Liga dos Campeões,2026-10-13T16:45:00Z,True,Sabah,Slavia Praga,,,por realizar
+Liga dos Campeões,2026-10-13T19:00:00Z,True,Arsenal,Lille,,,por realizar
+Liga dos Campeões,2026-10-13T19:00:00Z,True,Atlético Madrid,Man. United,,,por realizar
+Liga dos Campeões,2026-10-13T19:00:00Z,True,Inter,Club Brugge,,,por realizar
+Liga dos Campeões,2026-10-13T19:00:00Z,True,Galatasaray,Barcelona,,,por realizar
+Liga dos Campeões,2026-10-13T19:00:00Z,True,RB Leipzig,PSV,,,por realizar
+Liga dos Campeões,2026-10-13T19:00:00Z,True,Viking,Bayern,,,por realizar
+Liga dos Campeões,2026-10-13T19:00:00Z,True,Villarreal,Napoli,,,por realizar
+Liga dos Campeões,2026-10-14T16:45:00Z,True,Feyenoord,Como,,,por realizar
+Liga dos Campeões,2026-10-14T16:45:00Z,True,LASK,Liverpool,,,por realizar
+Liga dos Campeões,2026-10-14T19:00:00Z,True,Roma,Real Madrid,,,por realizar
+Liga dos Campeões,2026-10-14T19:00:00Z,True,Aston Villa,Fenerbahçe,,,por realizar
+Liga dos Campeões,2026-10-14T19:00:00Z,True,Shakhtar,AEK Athens,,,por realizar
+Liga dos Campeões,2026-10-14T19:00:00Z,True,Bodø/Glimt,Dortmund,,,por realizar
+Liga dos Campeões,2026-10-14T19:00:00Z,True,Man. City,PSG,,,por realizar
+Liga dos Campeões,2026-10-14T19:00:00Z,True,Betis,Porto,,,por realizar
+Liga dos Campeões,2026-10-14T19:00:00Z,True,Slovan Bratislava,Estugarda,,,por realizar
+Liga dos Campeões,2026-10-20T16:45:00Z,True,Fenerbahçe,Slavia Praga,,,por realizar
+Liga dos Campeões,2026-10-20T16:45:00Z,True,Sabah,Dortmund,,,por realizar
+Liga dos Campeões,2026-10-20T19:00:00Z,True,Roma,Slovan Bratislava,,,por realizar
+Liga dos Campeões,2026-10-20T19:00:00Z,True,Porto,PSV,,,por realizar
+Liga dos Campeões,2026-10-20T19:00:00Z,True,Liverpool,Villarreal,,,por realizar
+Liga dos Campeões,2026-10-20T19:00:00Z,True,Man. City,AEK Athens,,,por realizar
+Liga dos Campeões,2026-10-20T19:00:00Z,True,PSG,Barcelona,,,por realizar
+Liga dos Campeões,2026-10-20T19:00:00Z,True,Napoli,Bodø/Glimt,,,por realizar
+Liga dos Campeões,2026-10-20T19:00:00Z,True,Estugarda,Atlético Madrid,,,por realizar
+Liga dos Campeões,2026-10-21T16:45:00Z,True,Como,Man. United,,,por realizar
+Liga dos Campeões,2026-10-21T16:45:00Z,True,Lille,Galatasaray,,,por realizar
+Liga dos Campeões,2026-10-21T19:00:00Z,True,Aston Villa,Viking,,,por realizar
+Liga dos Campeões,2026-10-21T19:00:00Z,True,Club Brugge,Lens,,,por realizar
+Liga dos Campeões,2026-10-21T19:00:00Z,True,Bayern,Arsenal,,,por realizar
+Liga dos Campeões,2026-10-21T19:00:00Z,True,Inter,Shakhtar,,,por realizar
+Liga dos Campeões,2026-10-21T19:00:00Z,True,Real Madrid,RB Leipzig,,,por realizar
+Liga dos Campeões,2026-10-21T19:00:00Z,True,Betis,Feyenoord,,,por realizar
+Liga dos Campeões,2026-10-21T19:00:00Z,True,Sporting CP,LASK,,,por realizar
+Liga dos Campeões,2026-11-03T17:45:00Z,True,Shakhtar,Sporting CP,,,por realizar
+Liga dos Campeões,2026-11-03T17:45:00Z,True,Galatasaray,Estugarda,,,por realizar
+Liga dos Campeões,2026-11-03T20:00:00Z,True,Atlético Madrid,Bayern,,,por realizar
+Liga dos Campeões,2026-11-03T20:00:00Z,True,Barcelona,Aston Villa,,,por realizar
+Liga dos Campeões,2026-11-03T20:00:00Z,True,Feyenoord,Inter,,,por realizar
+Liga dos Campeões,2026-11-03T20:00:00Z,True,Bodø/Glimt,Lille,,,por realizar
+Liga dos Campeões,2026-11-03T20:00:00Z,True,LASK,Slovan Bratislava,,,por realizar
+Liga dos Campeões,2026-11-03T20:00:00Z,True,Man. United,Roma,,,por realizar
+Liga dos Campeões,2026-11-03T20:00:00Z,True,Villarreal,PSG,,,por realizar
+Liga dos Campeões,2026-11-04T17:45:00Z,True,AEK Athens,Real Madrid,,,por realizar
+Liga dos Campeões,2026-11-04T17:45:00Z,True,Fenerbahçe,Liverpool,,,por realizar
+Liga dos Campeões,2026-11-04T20:00:00Z,True,Dortmund,Betis,,,por realizar
+Liga dos Campeões,2026-11-04T20:00:00Z,True,Porto,Napoli,,,por realizar
+Liga dos Campeões,2026-11-04T20:00:00Z,True,PSV,Club Brugge,,,por realizar
+Liga dos Campeões,2026-11-04T20:00:00Z,True,RB Leipzig,Man. City,,,por realizar
+Liga dos Campeões,2026-11-04T20:00:00Z,True,Lens,Como,,,por realizar
+Liga dos Campeões,2026-11-04T20:00:00Z,True,Slavia Praga,Arsenal,,,por realizar
+Liga dos Campeões,2026-11-04T20:00:00Z,True,Viking,Sabah,,,por realizar
+Liga dos Campeões,2026-11-24T17:45:00Z,True,Bodø/Glimt,LASK,,,por realizar
+Liga dos Campeões,2026-11-24T17:45:00Z,True,Galatasaray,Aston Villa,,,por realizar
+Liga dos Campeões,2026-11-24T20:00:00Z,True,Arsenal,Dortmund,,,por realizar
+Liga dos Campeões,2026-11-24T20:00:00Z,True,Como,AEK Athens,,,por realizar
+Liga dos Campeões,2026-11-24T20:00:00Z,True,Feyenoord,Porto,,,por realizar
+Liga dos Campeões,2026-11-24T20:00:00Z,True,Man. City,Napoli,,,por realizar
+Liga dos Campeões,2026-11-24T20:00:00Z,True,RB Leipzig,Lens,,,por realizar
+Liga dos Campeões,2026-11-24T20:00:00Z,True,Real Madrid,PSV,,,por realizar
+Liga dos Campeões,2026-11-24T20:00:00Z,True,Slovan Bratislava,Betis,,,por realizar
+Liga dos Campeões,2026-11-25T17:45:00Z,True,Sabah,Barcelona,,,por realizar
+Liga dos Campeões,2026-11-25T17:45:00Z,True,Slavia Praga,Villarreal,,,por realizar
+Liga dos Campeões,2026-11-25T20:00:00Z,True,Atlético Madrid,Viking,,,por realizar
+Liga dos Campeões,2026-11-25T20:00:00Z,True,Club Brugge,Liverpool,,,por realizar
+Liga dos Campeões,2026-11-25T20:00:00Z,True,Inter,Estugarda,,,por realizar
+Liga dos Campeões,2026-11-25T20:00:00Z,True,Shakhtar,Fenerbahçe,,,por realizar
+Liga dos Campeões,2026-11-25T20:00:00Z,True,Lille,Bayern,,,por realizar
+Liga dos Campeões,2026-11-25T20:00:00Z,True,PSG,Roma,,,por realizar
+Liga dos Campeões,2026-11-25T20:00:00Z,True,Sporting CP,Man. United,,,por realizar
+Liga dos Campeões,2026-12-08T17:45:00Z,True,Viking,Feyenoord,,,por realizar
+Liga dos Campeões,2026-12-08T17:45:00Z,True,Villarreal,Sabah,,,por realizar
+Liga dos Campeões,2026-12-08T20:00:00Z,True,AEK Athens,Galatasaray,,,por realizar
+Liga dos Campeões,2026-12-08T20:00:00Z,True,Roma,Sporting CP,,,por realizar
+Liga dos Campeões,2026-12-08T20:00:00Z,True,Aston Villa,PSG,,,por realizar
+Liga dos Campeões,2026-12-08T20:00:00Z,True,Barcelona,Man. City,,,por realizar
+Liga dos Campeões,2026-12-08T20:00:00Z,True,Bayern,Slavia Praga,,,por realizar
+Liga dos Campeões,2026-12-08T20:00:00Z,True,Man. United,RB Leipzig,,,por realizar
+Liga dos Campeões,2026-12-08T20:00:00Z,True,Napoli,Club Brugge,,,por realizar
+Liga dos Campeões,2026-12-09T17:45:00Z,True,Betis,Como,,,por realizar
+Liga dos Campeões,2026-12-09T17:45:00Z,True,Slovan Bratislava,Shakhtar,,,por realizar
+Liga dos Campeões,2026-12-09T20:00:00Z,True,Arsenal,Real Madrid,,,por realizar
+Liga dos Campeões,2026-12-09T20:00:00Z,True,Dortmund,Inter,,,por realizar
+Liga dos Campeões,2026-12-09T20:00:00Z,True,LASK,Fenerbahçe,,,por realizar
+Liga dos Campeões,2026-12-09T20:00:00Z,True,Liverpool,Porto,,,por realizar
+Liga dos Campeões,2026-12-09T20:00:00Z,True,Lens,Bodø/Glimt,,,por realizar
+Liga dos Campeões,2026-12-09T20:00:00Z,True,PSV,Atlético Madrid,,,por realizar
+Liga dos Campeões,2026-12-09T20:00:00Z,True,Estugarda,Lille,,,por realizar
+Liga dos Campeões,2027-01-19T17:45:00Z,True,Bodø/Glimt,Atlético Madrid,,,por realizar
+Liga dos Campeões,2027-01-19T17:45:00Z,True,Galatasaray,Feyenoord,,,por realizar
+Liga dos Campeões,2027-01-19T20:00:00Z,True,AEK Athens,Roma,,,por realizar
+Liga dos Campeões,2027-01-19T20:00:00Z,True,Aston Villa,Dortmund,,,por realizar
+Liga dos Campeões,2027-01-19T20:00:00Z,True,Inter,Liverpool,,,por realizar
+Liga dos Campeões,2027-01-19T20:00:00Z,True,Porto,Slavia Praga,,,por realizar
+Liga dos Campeões,2027-01-19T20:00:00Z,True,Lille,Slovan Bratislava,,,por realizar
+Liga dos Campeões,2027-01-19T20:00:00Z,True,Real Madrid,LASK,,,por realizar
+Liga dos Campeões,2027-01-19T20:00:00Z,True,Estugarda,Club Brugge,,,por realizar
+Liga dos Campeões,2027-01-20T17:45:00Z,True,Fenerbahçe,Villarreal,,,por realizar
+Liga dos Campeões,2027-01-20T17:45:00Z,True,Sabah,Napoli,,,por realizar
+Liga dos Campeões,2027-01-20T20:00:00Z,True,Como,PSG,,,por realizar
+Liga dos Campeões,2027-01-20T20:00:00Z,True,Man. United,Bayern,,,por realizar
+Liga dos Campeões,2027-01-20T20:00:00Z,True,RB Leipzig,Shakhtar,,,por realizar
+Liga dos Campeões,2027-01-20T20:00:00Z,True,Lens,Man. City,,,por realizar
+Liga dos Campeões,2027-01-20T20:00:00Z,True,Betis,Arsenal,,,por realizar
+Liga dos Campeões,2027-01-20T20:00:00Z,True,Sporting CP,Barcelona,,,por realizar
+Liga dos Campeões,2027-01-20T20:00:00Z,True,Viking,PSV,,,por realizar
+Liga dos Campeões,2027-01-27T20:00:00Z,True,Arsenal,Sabah,,,por realizar
+Liga dos Campeões,2027-01-27T20:00:00Z,True,Roma,Lille,,,por realizar
+Liga dos Campeões,2027-01-27T20:00:00Z,True,Atlético Madrid,Fenerbahçe,,,por realizar
+Liga dos Campeões,2027-01-27T20:00:00Z,True,Dortmund,AEK Athens,,,por realizar
+Liga dos Campeões,2027-01-27T20:00:00Z,True,Club Brugge,Bodø/Glimt,,,por realizar
+Liga dos Campeões,2027-01-27T20:00:00Z,True,Bayern,Betis,,,por realizar
+Liga dos Campeões,2027-01-27T20:00:00Z,True,Barcelona,Como,,,por realizar
+Liga dos Campeões,2027-01-27T20:00:00Z,True,Shakhtar,Real Madrid,,,por realizar
+Liga dos Campeões,2027-01-27T20:00:00Z,True,Feyenoord,RB Leipzig,,,por realizar
+Liga dos Campeões,2027-01-27T20:00:00Z,True,LASK,Porto,,,por realizar
+Liga dos Campeões,2027-01-27T20:00:00Z,True,Liverpool,Lens,,,por realizar
+Liga dos Campeões,2027-01-27T20:00:00Z,True,Man. City,Sporting CP,,,por realizar
+Liga dos Campeões,2027-01-27T20:00:00Z,True,PSG,Galatasaray,,,por realizar
+Liga dos Campeões,2027-01-27T20:00:00Z,True,PSV,Estugarda,,,por realizar
+Liga dos Campeões,2027-01-27T20:00:00Z,True,Slavia Praga,Aston Villa,,,por realizar
+Liga dos Campeões,2027-01-27T20:00:00Z,True,Napoli,Viking,,,por realizar
+Liga dos Campeões,2027-01-27T20:00:00Z,True,Villarreal,Man. United,,,por realizar
+Liga dos Campeões,2027-01-27T20:00:00Z,True,Slovan Bratislava,Inter,,,por realizar
+Ligue 1,2026-09-13T18:45:00Z,True,Brest,PSG,0,1,terminado
+Ligue 1,2026-09-18T18:45:00Z,True,Monaco,Lens,2,1,terminado
+Ligue 1,2026-09-19T15:15:00Z,True,Paris FC,Estrasburgo,2,1,terminado
+Ligue 1,2026-09-19T18:45:00Z,True,Angers,Troyes,2,0,terminado
+Ligue 1,2026-09-19T18:45:00Z,True,Le Mans,Lorient,2,1,terminado
+Ligue 1,2026-09-19T18:45:00Z,True,Lyon,Rennes,4,0,terminado
+Ligue 1,2026-09-19T18:45:00Z,True,Toulouse,Le Havre,3,2,terminado
+Ligue 1,2026-09-20T13:00:00Z,True,Auxerre,Brest,2,1,terminado
+Ligue 1,2026-09-20T15:15:00Z,True,Nice,Lille,2,1,terminado
+Ligue 1,2026-09-20T18:45:00Z,True,Marselha,PSG,1,2,terminado
+Ligue 1,2026-10-09T18:45:00Z,True,Lens,Lyon,,,por realizar
+Ligue 1,2026-10-10T15:15:00Z,True,Lille,Le Havre,,,por realizar
+Ligue 1,2026-10-10T18:45:00Z,True,Brest,Angers,,,por realizar
+Ligue 1,2026-10-10T18:45:00Z,True,Lorient,Paris FC,,,por realizar
+Ligue 1,2026-10-10T18:45:00Z,True,Monaco,Toulouse,,,por realizar
+Ligue 1,2026-10-10T18:45:00Z,True,PSG,Le Mans,,,por realizar
+Ligue 1,2026-10-11T13:00:00Z,True,Nice,Estrasburgo,,,por realizar
+Ligue 1,2026-10-11T15:15:00Z,True,Rennes,Auxerre,,,por realizar
+Ligue 1,2026-10-11T18:45:00Z,True,Troyes,Marselha,,,por realizar
+Ligue 1,2026-10-16T18:45:00Z,True,Le Mans,Toulouse,,,por realizar
+Premier League,2026-08-21T19:00:00Z,True,Arsenal,Coventry,3,0,terminado
+Premier League,2026-08-23T15:30:00Z,True,Newcastle,Liverpool,2,2,terminado
+Premier League,2026-08-24T19:00:00Z,True,Fulham,Chelsea,2,3,terminado
+Premier League,2026-08-29T11:30:00Z,True,Liverpool,Nott. Forest,2,2,terminado
+Premier League,2026-08-30T13:00:00Z,True,Chelsea,Brighton,4,3,terminado
+Premier League,2026-08-31T19:00:00Z,True,Aston Villa,Arsenal,0,1,terminado
+Premier League,2026-09-04T19:00:00Z,True,Ipswich,Liverpool,0,2,terminado
+Premier League,2026-09-06T15:30:00Z,True,Arsenal,Chelsea,2,1,terminado
+Premier League,2026-09-12T14:00:00Z,True,Chelsea,Hull City,2,2,terminado
+Premier League,2026-09-12T14:00:00Z,True,Liverpool,Fulham,0,0,terminado
+Premier League,2026-09-12T19:00:00Z,True,Sunderland,Arsenal,0,2,terminado
+Premier League,2026-09-18T19:00:00Z,True,Brentford,Chelsea,3,0,terminado
+Premier League,2026-09-19T11:30:00Z,True,Tottenham,Aston Villa,2,3,terminado
+Premier League,2026-09-19T14:00:00Z,True,Brighton,Arsenal,3,0,terminado
+Premier League,2026-09-19T14:00:00Z,True,Everton,Ipswich,1,0,terminado
+Premier League,2026-09-19T14:00:00Z,True,Newcastle,Hull City,2,1,terminado
+Premier League,2026-09-19T16:30:00Z,True,Nott. Forest,Coventry,0,1,terminado
+Premier League,2026-09-20T13:00:00Z,True,Bournemouth,Liverpool,0,1,terminado
+Premier League,2026-09-20T13:00:00Z,True,Leeds,Crystal Palace,0,0,terminado
+Premier League,2026-09-20T13:00:00Z,True,Man. City,Sunderland,5,3,terminado
+Premier League,2026-09-20T15:30:00Z,True,Fulham,Man. United,1,1,terminado
+Premier League,2026-10-10T11:30:00Z,True,Arsenal,Leeds,,,por realizar
+Premier League,2026-10-10T14:00:00Z,True,Aston Villa,Brentford,,,por realizar
+Premier League,2026-10-10T14:00:00Z,True,Chelsea,Bournemouth,,,por realizar
+Premier League,2026-10-10T14:00:00Z,True,Ipswich,Fulham,,,por realizar
+Premier League,2026-10-10T14:00:00Z,True,Sunderland,Brighton,,,por realizar
+Premier League,2026-10-10T16:30:00Z,True,Man. United,Tottenham,,,por realizar
+Premier League,2026-10-11T13:00:00Z,True,Crystal Palace,Nott. Forest,,,por realizar
+Premier League,2026-10-11T13:00:00Z,True,Hull City,Everton,,,por realizar
+Premier League,2026-10-11T15:30:00Z,True,Liverpool,Man. City,,,por realizar
+Premier League,2026-10-12T19:00:00Z,True,Coventry,Newcastle,,,por realizar
+Premier League,2026-10-17T11:30:00Z,True,Everton,Chelsea,,,por realizar
+Premier League,2026-10-17T14:00:00Z,True,Brentford,Liverpool,,,por realizar
+Premier League,2026-10-18T15:30:00Z,True,Nott. Forest,Arsenal,,,por realizar
+Premier League,2026-10-24T14:00:00Z,True,Arsenal,Everton,,,por realizar
+Premier League,2026-10-24T16:30:00Z,True,Chelsea,Tottenham,,,por realizar
+Premier League,2026-10-25T14:00:00Z,True,Liverpool,Brighton,,,por realizar
+Premier League,2026-10-31T12:30:00Z,True,Chelsea,Man. United,,,por realizar
+Premier League,2026-11-01T16:30:00Z,True,Liverpool,Arsenal,,,por realizar
+Premier League,2026-11-07T15:00:00Z,True,Arsenal,Hull City,,,por realizar
+Premier League,2026-11-08T14:00:00Z,True,Sunderland,Chelsea,,,por realizar
+Premier League,2026-11-08T14:00:00Z,True,Crystal Palace,Liverpool,,,por realizar
+Premier League,2026-11-21T15:00:00Z,True,Chelsea,Leeds,,,por realizar
+Premier League,2026-11-21T17:30:00Z,True,Newcastle,Arsenal,,,por realizar
+Premier League,2026-11-22T16:30:00Z,True,Liverpool,Man. United,,,por realizar
+Premier League,2026-11-27T20:00:00Z,True,Nott. Forest,Chelsea,,,por realizar
+Premier League,2026-11-29T12:00:00Z,True,Everton,Liverpool,,,por realizar
+Premier League,2026-11-29T16:30:00Z,True,Arsenal,Man. City,,,por realizar
+Premier League,2026-12-02T20:00:00Z,True,Brentford,Arsenal,,,por realizar
+Premier League,2026-12-02T20:00:00Z,True,Chelsea,Crystal Palace,,,por realizar
+Premier League,2026-12-02T20:00:00Z,True,Liverpool,Sunderland,,,por realizar
+Premier League,2026-12-05T15:00:00Z,True,Tottenham,Arsenal,,,por realizar
+Premier League,2026-12-05T15:00:00Z,True,Chelsea,Liverpool,,,por realizar
+Premier League,2026-12-12T15:00:00Z,True,Arsenal,Bournemouth,,,por realizar
+Premier League,2026-12-12T15:00:00Z,True,Man. City,Chelsea,,,por realizar
+Premier League,2026-12-12T15:00:00Z,True,Liverpool,Leeds,,,por realizar
+Serie A,2026-09-18T18:45:00Z,True,Monza,Sassuolo,2,1,terminado
+Serie A,2026-09-19T13:00:00Z,True,Bologna,Torino,1,1,terminado
+Serie A,2026-09-19T13:00:00Z,True,Udinese,Cagliari,0,1,terminado
+Serie A,2026-09-19T16:00:00Z,True,Roma,Inter,2,2,terminado
+Serie A,2026-09-19T18:45:00Z,True,Venezia,Lazio,0,2,terminado
+Serie A,2026-09-20T10:30:00Z,True,Fiorentina,Napoli,1,1,terminado
+Serie A,2026-09-20T13:00:00Z,True,Frosinone,Como,2,0,terminado
+Serie A,2026-09-20T13:00:00Z,True,Parma,Genoa,2,1,terminado
+Serie A,2026-09-20T16:00:00Z,True,Juventus,Atalanta,2,0,terminado
+Serie A,2026-09-20T18:45:00Z,True,Milan,Lecce,3,0,terminado
+Serie A,2026-10-10T13:00:00Z,True,Genoa,Fiorentina,,,por realizar
+Serie A,2026-10-10T16:00:00Z,True,Inter,Parma,,,por realizar
+Serie A,2026-10-10T18:45:00Z,True,Napoli,Frosinone,,,por realizar
+Serie A,2026-10-11T10:30:00Z,True,Como,Roma,,,por realizar
+Serie A,2026-10-11T13:00:00Z,True,Lazio,Monza,,,por realizar
+Serie A,2026-10-11T13:00:00Z,True,Lecce,Bologna,,,por realizar
+Serie A,2026-10-11T16:00:00Z,True,Sassuolo,Milan,,,por realizar
+Serie A,2026-10-11T18:45:00Z,True,Cagliari,Juventus,,,por realizar
+Serie A,2026-10-12T16:30:00Z,True,Atalanta,Venezia,,,por realizar
+Serie A,2026-10-12T18:45:00Z,True,Torino,Udinese,,,por realizar
+"Taça de Portugal (3.ª elim., 17/18 out)",2026-10-17,False,Salgueiros,Estoril,,,por realizar
+"Taça de Portugal (3.ª elim., 17/18 out)",2026-10-17,False,Alcochetense,Marítimo,,,por realizar
+"Taça de Portugal (3.ª elim., 17/18 out)",2026-10-17,False,Tondela,Alverca,,,por realizar
+"Taça de Portugal (3.ª elim., 17/18 out)",2026-10-17,False,Paredes,Famalicão,,,por realizar
+"Taça de Portugal (3.ª elim., 17/18 out)",2026-10-17,False,Belenenses,Arouca,,,por realizar
+"Taça de Portugal (3.ª elim., 17/18 out)",2026-10-17,False,Fazendense,Estrela da Amadora,,,por realizar
+"Taça de Portugal (3.ª elim., 17/18 out)",2026-10-17,False,Mafra,Santa Clara,,,por realizar
+"Taça de Portugal (3.ª elim., 17/18 out)",2026-10-17,False,União de Santarém,Gil Vicente,,,por realizar
+"Taça de Portugal (3.ª elim., 17/18 out)",2026-10-17,False,AVS,Moreirense,,,por realizar
+"Taça de Portugal (3.ª elim., 17/18 out)",2026-10-17,False,Lamelas,Vitória SC,,,por realizar
+"Taça de Portugal (3.ª elim., 17/18 out)",2026-10-17,False,Sanjoanense,Nacional,,,por realizar
+"Taça de Portugal (3.ª elim., 17/18 out)",2026-10-17,False,Alpendorada,Casa Pia,,,por realizar
+"Taça de Portugal (3.ª elim., 17/18 out)",2026-10-17,False,Louletano,Rio Ave,,,por realizar
+"Taça de Portugal (3.ª elim., 17/18 out)",2026-10-17,False,Fátima,Académico de Viseu,,,por realizar
+"Taça de Portugal (3.ª elim., 17/18 out)",2026-10-17,False,Farense,Marco 09,,,por realizar
+"Taça de Portugal (3.ª elim., 17/18 out)",2026-10-17,False,União de Leiria,Bragança,,,por realizar
+"Taça de Portugal (3.ª elim., 17/18 out)",2026-10-17,False,Atlético,Vizela,,,por realizar
+"Taça de Portugal (3.ª elim., 17/18 out)",2026-10-17,False,Chaves,Marialvas,,,por realizar
+"Taça de Portugal (3.ª elim., 17/18 out)",2026-10-17,False,Vianense,Leixões,,,por realizar
+"Taça de Portugal (3.ª elim., 17/18 out)",2026-10-17,False,Penafiel,Leça,,,por realizar
+"Taça de Portugal (3.ª elim., 17/18 out)",2026-10-17,False,Felgueiras,Fafe,,,por realizar
+"Taça de Portugal (3.ª elim., 17/18 out)",2026-10-17,False,Olhanense,Oliveira do Hospital,,,por realizar
+"Taça de Portugal (3.ª elim., 17/18 out)",2026-10-17,False,Lusitânia de Lourosa,Limianos,,,por realizar
+"Taça de Portugal (3.ª elim., 17/18 out)",2026-10-17,False,Vitória de Setúbal,União da Serra,,,por realizar
